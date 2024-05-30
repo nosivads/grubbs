@@ -9,7 +9,7 @@ Z = np.array([2,4])
 cos_sim = cosine_similarity([X], [Y, Z])
 print(cos_sim)
 
-# calculate the entire cosie similarity matrix among X, Y, and Z
+# calculate the entire cosine similarity matrix among X, Y, and Z
 cos_sim = cosine_similarity([X, Y, Z])
 print(cos_sim)
 print()
