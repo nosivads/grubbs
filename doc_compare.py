@@ -8,51 +8,48 @@ from sklearn.metrics.pairwise import euclidean_distances
 
 st = time.time()
 
-# argument is the path to analyze
+# arguments are the paths to compare
 # default is the current path
 try:
-    top=Path(sys.argv[1])
+    top1=Path(sys.argv[1])
 except:
-    top=Path(os.getcwd())
-print('top-level folder:', top)
+    top1=Path(os.getcwd())
+try:
+    top2=Path(sys.argv[2])
+except:
+    top2=Path(os.getcwd())
+print('folders to compare:', top1, top2)
 
 # dataframe for list of files
 # for this version only .txt files are processed
-df = pd.DataFrame(columns=['path', 'name', 'type', 'text'])
+df1 = pd.DataFrame(columns=['path', 'name', 'type', 'text'])
+df2 = pd.DataFrame(columns=['path', 'name', 'type', 'text'])
 
-# to count numbers of files, and list of files that couldn't be read
-total_no_files, no_files, no_skipped, files_skipped = 0, 0, 0, list()
+filetype='txt'
 
-# filter on .txt files and write to dataframe
-for path in top.rglob('*'):
-    spath = str(path)
-    if spath[-4:]=='.txt':
-        nam =  spath[spath.rfind('/')+1:]
-        typ =  spath[spath.rfind('.')+1:]
-        with open(spath) as f:
-            try:
-                txt = f.read()
-                no_files+=1
-            except:
-                no_skipped+=1
-                files_skipped.append(spath)
-        df.loc[len(df)] = [path, nam, typ, txt]
+def read_files(top, filetype, df):
+    for path in top.rglob('*'):
+        spath = str(path)
+        if spath[-4:]=='.'+filetype:
+            nam =  spath[spath.rfind('/')+1:]
+            typ =  spath[spath.rfind('.')+1:]
+            with open(spath) as f:
+                try:
+                    txt = f.read()
+                    df.loc[len(df)] = [path, nam, typ, txt]
+                except:
+                    pass
+    return df
 
-# show stats
-print('total number of files in folder:', total_no_files)
-print('no. of files in comparison:', no_files)
-print('no. of files skipped:', no_skipped)
-print('files skipped:')
-
-# list files that couldn't be read
-for f in files_skipped:
-    print(f)
+read_files(top1, 'txt', df1)
+read_files(top2, 'txt', df2)
 
 # initialize tf-idf vectorizer
 vectorizer = TfidfVectorizer(lowercase=False)
 
 # train/fit: create vectors from text
-vectors = vectorizer.fit_transform(df.text)
+vectors1 = vectorizer.fit_transform(df1.text)
+vectors2 = vectorizer.fit_transform(df2.text)
 
 # calculate similarities between all files
 # creates a symmetrical matrix around the diagonal (row=col) axis

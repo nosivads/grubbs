@@ -1,0 +1,1311 @@
+,path,text
+0,/mnt/f/MURI 08/Perry MURI Qtrly rpt 3_08-3.doc,"
+
+
+
+QUARTERLY REPORT FOR 
+
+
+THE CALIFORNIA INSTITUTE OF TECHNOLOGY
+
+
+
+TRANSIENT ABSORBANCE AND OPTICAL POWER LIMITING OF OSMIUM PHTHALOCYANINES
+
+
+
+
+
+
+
+Joseph W. Perry, Matthew M. Sartin, Matteo Cozzuol
+School of Chemistry & Biochemistry
+Georgia Institute of Technology
+901 Atlantic Dr. NW
+Atlanta, GA  30332-0400
+
+Phone: 404-385-6046
+Fax: 404-385-6057
+E-mail: joe.perry@chemistry.gatech.edu
+
+
+
+
+
+
+June 19, 2008
+
+
+
+
+
+
+OBJECTIVE: 
+Understand how to improve the performance of opto-electronic materials by using molecules with well-defined structures.
+
+APPROACH: 
+Investigate multichromophoric systems for photoinduced charge generation or energy transfer and optical absorption.  Perform spectroscopic characterization of charge generation, transient optical properties, and optical limiting properties.   
+
+MILESTONES:
+To develop materials for efficient charge carrier generation or energy transfer and long lifetimes. To develop high sensitivity, broadband, high dynamic range nonlinear absorptive materials for optical limiting.
+
+ACCOMPLISHMENTS
+	Performed optical power limiting and transient absorption spectroscopy on two osmium naphthalocyanines that showed optical power limiting at 532 nm in solution.  Each has a strong, additional, transient band at 425 and 450 nm, respectively.
+
+RESULTS
+	We have performed transient and nonlinear optical studies on a pyridine-substituted and a triphenylphosphine-substituted osmium naphthalocyanine (OsNcPy and OsNcPPh3), whose structures are shown in Fig. 1.  These were synthesized by the Marder group.  The linear electronic absorption spectra in toluene are shown in Figure 2.  The spectrum of OsNcPy shows a Q-band absorption at 695 nm and a minimum at 550 nm.  The OsNcPPh3 also shows a Q-band absorption at 699 nm and a minimum at 550 nm; however, the absence of the charge transfer band seen in the OsNcPy makes the transmittance window larger for OsNcPPh3.
+	Optical power limiting data were taken on OsNcPy and OsNcPPh3 in toluene using an f/5 optical geometry, 532 nm, 5 ns laser pulses, and a 10 Hz repetition rate, as shown in Fig. 3.  Significant optical limiting was observed at both wavelengths.  The 
+
+
+(a)						(b)
+Figure 2.  Visible absorption spectra of (a) OsNcPy and (b) OsNcPPh3.
+
+
+
+(a)						(b)
+Figure 1.  Structure of (a) OsNcPy and (b) OsNcPPh3.
+initial transmission at 532 nm was 70%, and the observed suppression (Tlinear/TEmax) was 1.04 at 100 μJ.  Temporary equipment problems have prevented the use of higher energies (usually up to 2 mJ), where we expect to see greater suppression, and suppression was unobservable in OsNcPy under these conditions.  Figure 3b shows the optical limiting behavior of a sample with 30% transmittance at the excitation wavelength, in which the suppression is more apparent.  The response for OsNcPPh3 was compared with that of an InClPc(t-butyl)4 solution in toluene with a 70% transmission at 532 nm where the limiting data were taken; InClPc(t-butyl)4 is known to be a high performance optical limiting dye at this wavelength.  The suppression of the InClPc(t-butyl)4 solution was observed to be 15 at 532 nm in the same geometry.  
+
+
+(a)					(b)
+Figure 3.  Optical power limiting data for OsNcPPh3 in toluene excited at 532 nm.  (a) 70% transmittance (b) 30% transmittance
+
+	In order to obtain some insight into the mechanism of the optical limiting, we performed nanosecond transient absorption spectra on OsNcPy and OsNcPPh3 in toluene.  The transient difference spectra are shown in Fig. 4.  Transient bleaching of the Q-band and the shorter wavelength absorption band is observed.  Both molecules exhibit a weak induced absorption at ~ 560 nm, which is attributed to absorption from the triplet state.  If unit intersystem crossing efficiency is assumed, the extinction coefficients of these transients at 532 nm are 5×103 M-1cm-1 for OsNcPy and 1.0×104 M-1cm-1 for OsNcPPh3.  They exhibited a stronger absorbance at short wavelength.  Again, if 100% intersystem crossing is assumed, ε = 7.4×104 M-1cm-1 at 455 nm for OsNcPy, and 2.3×105 M-1cm-1 at 425 nm for OsNcPPh3.  This shorter wavelength absorbance probably indicates a transition to a higher excited triplet state.
+
+
+
+
+
+
+(a)					(b)
+Figure 4.  Transient absorption spectrum (a) OsNcPy and (b) OsNcPPh3 in toluene excited at 680 nm (OD = 0.2).
+
+
+
+CONCLUSIONS
+	We have shown that two osmium naphthalocyanines show optical limiting at ~532 nm for nanosecond laser pulses consistent with a reverse saturable absorption mechanism.  In addition to the photoinduced absorbance at 560 nm, both molecules exhibit a stronger, short wavelength transient absorbance (455 nm for OsNcPy and 425 nm for OsNcPPh3) that probably results from an accessible higher triplet state.
+	In future work, we will attempt to further characterize the spectroscopy of the molecules.  Additionally, we can repeat the optical limiting experiments when the technical difficulties with our current system are resolved, to obtain a clearer representation of the optical suppression capabilities of these materials.  More materials of this sort will be analyzed in the future.
+"
+1,/mnt/f/MURI 08/MURI_SRM_Jul08.doc,"
+Marder (GA Tech) Contributions to Caltech MURI 
+
+Abstract
+Dyads and polymers in which perylene diimides are linked to amine or carbazole donors have been developed for possible photovoltaic and optical limiting applications, a range of norbornene-based carbazole monomers and polymers have been synthesized as host materials for phosphorescent light-emitting diodes, and preliminary steps have been taken towards phthalocyanine-functionalized polynorbornenes for possible photovoltaic and optical limiting applications.
+
+Technical Section
+See attached
+
+Progress Statement
+Two D'¼D-A-D¼D' perylene diimides (A = perylene diimide acceptor, D and D' are amine donors strongly and weakly coupled to A, respectively) were synthesized. Their absorption, electrochemistry, radical-ion spectra, and transient absorption behavior have been compared to other D-A-D systems without the stronger secondary donors.  Unfortunately, the presence of the secondary donors does not lead to an in increase in the lifetimes of the charge-separated states. Low molecular-eight oligomers have been synthesized in which perylene diimides are attached covalently to conjugated carbazole polymer main chains.  Several new ROMP monomers and polymers have been synthesized incorporating various carbazole moieties including 4,4'-bis(carbazol-9-yl)biphenyl, 1,3-bis(carbazol-9-yl)benzene, and 2,6-bis(carbazol-9-yl)pyridine and are being tested in conjunction with Ir and Pt phosphors as luminescent layers for OLEDs. Some synthetic progress has been made towards norbornene-functionalized phthalocyanines.  
+
+Technology Transfer
+–
+
+Refereed Journal Articles
+1. A. Kimyonok, B. Domercq, A. Haldi, J.-Y. Cho, J.R. Carlise, X.-Y. Wang, L.E. Hayden, S.C. Jones, S. Barlow, S.R. Marder, B. Kippelen, and M. Weck, “Norbornene-Based Copolymers with Iridium Complexes and Bis(carbazolyl)fluorene Groups in Their Side-Chains and Their Use in Light-Emitting Diodes”, Chem. Mater., 2007, 19, 5602-5608. 
+2. X. Zhan, Z. Tan, B. Domercq, Z. An, X. Zhang, S. Barlow, Y. Li, D. Zhu, B. Kippelen, and S.R. Marder, “A High-Mobility Electron-Transport Polymer with Broad Absorption and its Use in Field-Effect Transistors and All-Polymer Solar Cells”, J. Am. Chem. Soc., 2007, 129, 7246-7247.
+3. C. Hunziker, X. Zhan, P.A. Losio, H. Figi, O.-P. Kwon, S. Barlow, P. Günter, and S.R. Marder, “Highly Ordered Films of a Bis(dithienothiophene) Derivative”, J. Mater. Chem., 2007, 17, 4972-4979.
+4. X. Zhan, A. Haldi, C. Risko, C.K. Chan, W. Zhao, T.V. Timofeeva, A. Korlyukov, M.Yu. Antipin, S. Montgomery, E. Thompson, Z. An, B. Domercq, S. Barlow, A. Kahn, B. Kippelen, J.-L. Brédas, and S.R. Marder, “Fluorenyl-substituted silole molecules: geometric, electronic, optical, and device properties”, J. Mater. Chem., 2008, 18, 3157-3166
+
+Books and Chapters
+–
+
+Technical Reports
+–
+
+Presentations
+1.  ""Organic Materials for Photovoltaic Applications.""  S.R. Marder, Presented at the 13th International Conference on Unconventional Photoactive Systems in Evanston, IL (UPS-13), (August, 2007) 
+
+2. ""New Materials and Processing Opportunities for Organic Electronics and Optoelectronic.""  S.R. Marder, Presented at the European Congress on Advanced Materials and Processes (EUROMAT),  Nürnberg, Germany, (September, 2007)
+3. ""New Organic Electron-Transport Materials."" S.R. Marder, Presented at the 9th European Conference on Molecular Electronics in Metz, France, (September, 2007)
+4. “Perylene materials for Photovoltaic applications.""  S.R. Marder, Presented at the ACS National Meeting held in New Orleans, LA, (April, 2008)
+5. “Norbornene-based copolymers with pendant heavy-metal phosphors and bis(carbazole) groups and their use in light-emitting diodes”, S. Barlow, , Presented at the ACS National Meeting held in New Orleans, LA, (April, 2008)
+
+Patents
+1. ""Norbornene-Bases Copolymers With Iridium Complexes and Bis(Carbazole) Flurone Groups in Their Side-Chains and Use Thereof."" A. Kimyonok, B. Domercq, A. Haldi, J.Y. Cho, J.R. Carlisle, X.Y. Wang, L.E. Hayden, S.C. Jones, S. Barlow, S.R. Marder, B. Kippelen, M. Weck, Provisional Patent Application #60/956,492, filed August 17, 2007.
+2. ""Carbazole-Based Hole-Transport and/or Electron Blocking Materials and/or Host Polymer Materials.""  Y. Zhang, S.R. Marder, C. Zuniga, S. Barlow, B. Kippelen, A. Haldi, B. Domercq, M. Weck, A. Kimyonok, Provisional Patent Application #61015641, filed December 20, 2007.
+3. ""Silole-Based Monomers and Polymers for Organic Light-Emitting Diode Devices.""  A. Hayek, X. Zhan, S. R. Marder, B. Kippelen, B. Domercq, A. Haldi, Provional Patent Application #61/015,650, filed December 20, 2007.
+4. ""ROMP-Polymerizable Electron Transport Materials Based on a Bis-Oxadiazole Moiety.""  S. R. Marder, S. Barlow, Y. Zhang, S. Pal, B. Kippelen, B. Domercq, A. Haldi, M. Weck, A. Kimyonok, U.S. Provisional Patent Application #61/015,777, filed December 21, 2007.
+
+Honors
+– 
+
+Related Sponsored Work
+1. ONR - High mobility organic Materials for Photovoltaic Applications (B. Kippelen PI with S. Marder Co-PI), February 1, 2004 - September 30, 2009, $215,000.
+2. Univ. of Central Florida/Army Research Laboratory - Materials for Optical Limiting (Seth Marder co-PI), February 1, 2004 – December 29, 2010, $364,000.
+3. Solvay, SA - Polymeric Materials for New Generations of Displays and Solid-State Light Sources, Seth Marder (co-PI), April 1, 2006 - December 31, 2008, $1,920,000
+4. Solvay, SA - Organic Materials for New Generations of Solar Cells for Portable Power, Seth Marder (co-PI) Sept 1, 2006 – August 31, 2009 $1,170,000.
+5. DARPA/MORPH Phase 2 - DARPA:  Molecular Photonics: High-speed Materials for Optical Signal Processing, Seth Marder (co-PI), May 1, 2006 – September 4, 2010, $5,331,741
+
+ONR Statistics
+
+Papers Published:					4
+Papers in Press:					0
+Books/Chapters:					0
+Books/Chapters in Press:			0
+Technical Reports	:				0
+Invention Disclosures:				0
+Patents Awarded:					0
+Patents Pending:					4
+Presentations:					5
+Degrees Granted:					0
+Honors:					0
+Graduate Students (Total):			
+Women Graduate Students:			
+Minority Graduate Students:			
+Undergraduate Students (Total):			
+Women Undergraduate Students (Total):		
+Minority Undergraduate Students (Total):	
+Post Doctoral Students (Total):			
+Women Post Doctoral Students (Total):		
+Minority Post Doctoral Students (Total):		
+
+"
+2,/mnt/f/MURI 08/muri onr template.doc,"
+Instructions:  You may use this MS Word file to submit the Technical Section of the ONR End of Year Report.  Please include any images, tables, graphs, and equations into the Technical Section of the report that you feel may strengthen the technical quality of your report.   As in previous years, the Technical Section must include the Technical Objectives, Technical Approach, and FY07 Progress (and Summary). Please complete the contract data section below so that technical information can be related to a specific contract.  
+
+Also, please save the file using the contract name as the file name (e.g. N00014-96-C-0387.doc).  Instructions on sending the finished file are on the web site w3.sainc.com/onr33
+
+If you have any questions with this form or with the web site, please contact the help desk at (703) 696-4022 or FY_07_EOY_Report@onr.navy.mil.
+
+Contract Information
+
+Contract Number
+
+Title of Research
+
+Principal Investigator
+
+Organization
+
+
+Technical Section
+
+Technical Objectives
+This section will describe the objectives of the contract.
+
+Technical Approach
+This section will describe the Technical Approach taken by the contractor.
+
+Progress Statement Summary
+This section briefly (1-2 paragraphs) summarizes accomplishments for Fiscal Year 2007 for the contract.
+
+Progress 
+This section will describe the accomplishments for Fiscal Year 2007 for the contract.
+"
+3,/mnt/f/MURI 08/MURI0608 1.doc,"For ONR reporting purposes only.  Contains Georgia Tech Confidential Information.
+
+
+
+
+MURI: TEMPLATION OF LONG-CHAIN SEQUENCE-CONTROLLED HETEROPOLYMERS
+
+
+
+
+SETH R. MARDER, BERNARD KIPPELEN, JOSEPH W. PERRY, MARCUS WECK
+School of Chemistry & Biochemistry
+School of Electrical and Computer Engineering
+Center for Organic Photonics and Electronics
+Georgia Institute of Technology
+901 Atlanta Drive
+Atlanta, GA  30332-0400
+
+Phone: 404-385-6048
+Fax: 404-385-6057
+E-mail: seth.marder@chemistry.gatech.edu
+
+
+
+
+
+
+June 30, 2008
+
+
+MURI – Marder Group, Jun 2008
+
+  
+Figure 2. Synthesis of a bis(carbazolyl)biphenyl host norbornene monomer.
+Carbazole-based Monomers and Polymers as Hosts for Phosphors
+
+Figure 1. Previously synthesized norbornene host monomer.
+Our role within the MURI relates to the synthesis of building blocks, monomers, oligomers, and polymers with potentially interesting electronic and / or optical properties. Increasingly, organic light-emitting diodes (OLEDs) incorporate phosphorescent heavy-metal complexes, such as those of Ir and Pt, as lumophores in order that both singlet and triplet states resulting from electron and hole recombination can be harvested. Typically the heavy-metal complexes are dispersed within a host material with appropriate energy levels to facilitate the injection of both holes and electrons and with a sufficiently high triplet energy to allow for both singlet and triplet energy transfer to the heavy-metal guest of interest. Copolymerization of host and guest monomers offers a means of creating solution-processable emissive layers in which the possibility of phase separation is reduced and in which there is a possibility of controlling guest-guest and host-guest aggregation phenomena. One of the most widely used of these hosts is 4,4'-bis(carbazol-9-yl)biphenyl, CBP. We have previously reported a norbornene derivative of bis(carbazolyl)fluorene (Figure 1) and its copolymerization with platinum and iridium monomers.1,2 
+We have now synthesized a range of other carbazolyl monomers. Figure 2 shows the synthesis of a host monomer and the corresponding homopolymer containing a similar bis(carbazolyl)biphenyl building block. The monomers (and polymers) of Figures 1 and 2 are expected to show similar triplet energies,3 ionization potentials, and electron affinities. However, the different point of attachment of the Figure 3. Synthesis of mCP  host norbornene monomer.
+
+polymer chain may alter the morphology of polymers and may affect host-guest aggregation. We have also synthesized polymerizable versions of the so-called mCP and mCPy host materials (Figures 3 and 4). The corresponding small molecules have been used as hosts for Ir and Pt phopshors. In particular, mCP has been shown to be a more effective host for blue Ir phosphors, such as iridium(III)bis[2-(4,6-difluorophenyl)pyridinato-N,C2']picolinate, than CBP due to its higher lying triplet energy.4 On the other hand, 
+Figure 4. Synthesis of mCPy  host norbornene monomer.
+
+efficient white OLEDs have been made using emissive layers composed of a Pt phosphor guest, Platinum(II) 2-(4',6'-difluorophenylpyridinato-N,C2')(pentane-2,4-dionato-O,O), which exhibits blue molecular emission and orange excimer emission, and a mCPy host.5 Improved performance relative to a mCP device was observed; one explanation advanced was that the electron-poor pyridine ring led to a more balanced injection of holes and electrons into the emissive layer. We are currently investigating the photoluminescence properties of host-guest systems composed of these polymers and metal-complex phosphors and use of these blends in organic light-emitting diodes. Based on these results, hosts with copolymerized with appropriate guest monomers.
+
+Phthalocyanine Side-Chain Monomer and Polymers
+Phthalocyanines (Pcs) are another functionality of interest for organic electronic applications, particularly for use in solar cells, with CuPc being probably the most widely used. Most work with Pcs in solar cells has been limited to vacuum-processed materials. One possible method to facilitate solution processible Pcs would be to attach Pc building blocks to the side chain of a polymer. Moreover, ROMP offers the possibility of creating self-phase-segregating block Figure 6. Attempted synthesis of a norbornene-functionalized ZnPc.
+
+Figure 5. Proposed Pc / iodinated copolymer for optical pulse suppression studies. 
+polymers with donor a Pc block Figure 6. Alternative route to a norbornene-functionalized ZnPc.
+and another acceptor block. Pcs are also of interest for another DOD application: optical pulse suppression. The relatively weak linear aborption in the ca. 400-600 nm range, coupled with a strong triplet absorption in this range, makes examples in which high intersystem crossing rates can be achieved efficient reverse saturable absorbers in this wavelength range.6 For applications, films consisting of high chromophore densities are required;  however, it is important that the linear and nonlinear optical films of these materials are not adversely affected by the tendency of Pcs to aggregate. Side chain polymers offer a possible means of incorporating high concentrations of Pcs in solution-processible films, while possibly also impairing Pc aggregation. We have begun synthetic studies aimed at such polymers using ZnPc as our initial building block, due to its simplicity and diamagnetism (and hence ease of NMR characterization). If successful, we anticipate that our methodology can be adapted to synthesize CuPc polymers for photovoltaic applications. For optical pulse supression, we can either use heavy-metal Pcs or copolymerize ZnPc with heavy-atom-containing comonomers, as shown in Figure 5. Figure 6 shows one possibility based on cocyclization of a norbornene-functionalized phthalonitrile with tert-butylphthalonitrile. Unfortunately, the desired product is similar in polarity and size to the tetra-(tert-butyl)-ZnPc side product, making separation by column chromatography and size-exclusion chromatography difficult. Figure 7 shows an alternative route to a norbornene-Pc monomer. Although this route requires an additional step, the polar alcohol functionality allows separation of a mono-functionalized Pc in moderate yield after two columns. We anticipate that this alcohol should be readily esterified to a norborene monomer as shown; this work is currently in progress. 
+
+
+References
+(1)	Cho, J.-Y.; Domercq, B.; Barlow, S.; Suponitsky, K. Y.; Li, J.; Timofeeva, T. V.; Jones, S. C.; Hayden, L. E.; Kimyonok, A.; South, C. R.; Weck, M.; Kippelen, B.; Marder, S. R. Organometallics 2007, 26, 4816.
+(2)	Kimyonok, A.; Domercq, B.; Haldi, A.; Cho, J.-Y.; Carlise, J. R.; Wang, X.-Y.; Hayden, L. E.; Jones, S. C.; Barlow, S.; Marder, S. R.; Kippelen, B.; Weck, M. Chem. Mater. 2007, 19, 5602.
+(3)	Marsal, P.; Avilov, I.; da Silva Filho, D. A.; Brédas, J. L.; Beljonne, D. Chem. Phys. Lett. 2004, 392, 521.
+(4)	Holmes, R. J.; Forrest, S. R.; Tung, Y.-J.; Kwong, R. C.; Brown, J. J.; Garon, S.; Thompson, M. E. Appl. Phys. Lett. 2003, 82, 2422.
+(5)	Williams, E. L.; Haavisto, K.; Li, J.; Jabbour, G. E. Adv. Mater. 2007, 19, 197.
+(6)	Perry, J. W.; Mansour, K.; Lee, I.-Y. S.; Wu, X.-L.; Bedworth, P. V.; Chen, C.-T.; Ng, D.; Marder, S. R.; Miles, P.; Wada, T.; Tian, M.; Sasabe, H. Science 1996, 273, 1533.
+
+
+
+MURI: Templation of Long-Chain Sequence-Controlled Heteropolymers
+
+Progress report, Period Covered Mar. – June 2008
+
+Bernard Kippelen, Professor
+School of Electrical and Computer Engineering
+Georgia Institute of Technology
+
+
+
+
+Testing of a norbornene based co-polymers containing a phosphorescent emissive center for OLED
+
+During the last reporting period, we tested the electroluminescent properties of norbornene based co-polymers containing an emissive phosphor center where the iridium loading level has been varied (see 1 in Scheme 1). Here, we report the influence of the molecular weight and the linkage between the functional groups on the efficiency of organic light-emitting diodes based on these copolymers. Copolymers with three different molecular weights and copolymers with comparable molecular weight but varied linkage between the polymer backbone and the functional groups were synthesized and purified. 
+
+
+Scheme 1: Structure of the norbornene containing copolymers with different linkage between the functional groups.
+
+
+
+
+For hole-injection into the host-guest system, we used a TPD based polymer (4, Poly-TPD-F2, see Scheme 2) that was developed by our team [Chem. Mater. 2003, 15, 1491]. This polymer can be photo-crosslinked under UV illumination, which allows the fabrication of multilayer devices from solution. Furthermore, to increase the efficiency of the devices, a hole-blocking/electron-transport layer of BCP was thermally evaporated on the phosphorescent copolymers, and a LiF/Al cathode was used for good electron-injection.
+
+
+
+
+
+Scheme 2.  Structure of the crosslinkable hole-transport polymer 4.
+
+Table 1. Characterization of copolymers with peak maxima of solid-state photoluminescence and electroluminescence spectra, plus external quantum efficiency and luminous efficiency at 100 cd/m2 for devices based on phosphorescent copolymers with different molecular weight and different linkages between the side groups and the polymer backbone. The device structure was ITO/4 (35 nm)/(1-3) (20-25 nm)/BCP (40 nm)/LiF (1 nm)/Al.
+
+Polymer
+m:n
+(mol%)
+Mn 
+(×103 g/mol)
+PDI
+λmax,PL (nm)
+λmax,EL (nm)
+EQE (%)
+Luminous efficiency (cd/A)
+1
+89:11
+19.0
+1.29
+594
+600
+2.9±0.3
+3.9±0.4
+1
+92:8
+70.0
+1.33
+590
+602
+3.2±0.3
+4.9±0.4
+1
+90:10
+238.0
+1.47
+591
+607
+1.5±0.1
+2.0±0.1
+2
+90:10
+16.0
+1.31
+592
+605
+3.9±0.3
+5.3±0.4
+3
+90:10
+20.0
+1.21
+594
+603
+4.5±0.5
+8.0±0.9
+3
+95:5
+16.5
+1.21
+595
+597
+4.9±0.4
+8.8±0.7
+
+
+
+External quantum efficiencies (EQEs) and luminous efficiencies at 100 cd/m2 for the devices fabricated with different copolymers are listed in Table 1. The efficiency of devices with copolymers of different molecular weight was found to decrease for the copolymers with the highest molecular weight (238 kDa). However, no significant difference in efficiencies could be found when the molecular weight was varied between 19 kDa and 70 kDa.
+The study of the dependence of the efficiency of OLEDs on the linkage between the functional groups of the emissive polymers showed an increased efficiency for devices with copolymer 2 and 3 compared to copolymer 1. By replacing the ether group that connects the bis(carbazolyl)fluorene group to the polymer backbone with an ester group, the efficiency was 1% higher at 100 cd/m2 than for the copolymer 1. Finally, inserting an elongated linkage between the iridium complex and the polymer backbone (3) increased the EQE by another 0.6%. 
+
+Figure 1. External quantum efficiency as a function of the loading level of the iridium complex in the copolymer for OLEDs with device configuration ITO/ 1 (35 nm)/ (2-8) (20-25 nm)/BCP (40 nm)/LiF (1 nm)/Al.
+
+Combining the results discussed from this reporting period with the previous one where the highest efficiencies were observed in copolymers with an iridium loading level of 5 mol%, a copolymer with an elongated ester linker and an iridium complex concentration of 5 mol% was synthesized. The external quantum efficiency measured in an OLED based on this copolymer as emissive layer was the highest of the present study: 4.9±0.4% and 8.8±0.7 cd/A at 100 cd/m2 (Figure 1). This result validates the trends that were established through our studies in which we varied different properties independently. Given the low value (10% in toluene) of the photoluminescence quantum yield of the orange iridium emitter that was incorporated in these copolymers [Chem. Mater. 2007, 19, 5602], the measured EQE of 4.9% in devices with this optimized copolymer indicates that the electroluminescent properties of this copolymer are nearly optimized.
+During the next reporting period, we will report on a crosslinkable emissive layer based on the optimized copolymer above and we will show the fabrication of OLEDs where all organic layers have been deposited from solution. 
+
+
+
+
+
+
+
+
+
+QUARTERLY REPORT FOR 
+
+
+THE CALIFORNIA INSTITUTE OF TECHNOLOGY
+
+
+
+TRANSIENT ABSORBANCE AND OPTICAL POWER LIMITING OF OSMIUM PHTHALOCYANINES
+
+
+
+
+
+
+
+Joseph W. Perry, Matthew M. Sartin, Matteo Cozzuol
+School of Chemistry & Biochemistry
+Georgia Institute of Technology
+901 Atlantic Dr. NW
+Atlanta, GA  30332-0400
+
+Phone: 404-385-6046
+Fax: 404-385-6057
+E-mail: joe.perry@chemistry.gatech.edu
+
+
+
+
+
+
+June 19, 2008
+
+
+
+
+
+
+OBJECTIVE: 
+Understand how to improve the performance of opto-electronic materials by using molecules with well-defined structures.
+
+APPROACH: 
+Investigate multichromophoric systems for photoinduced charge generation or energy transfer and optical absorption.  Perform spectroscopic characterization of charge generation, transient optical properties, and optical limiting properties.   
+
+MILESTONES:
+To develop materials for efficient charge carrier generation or energy transfer and long lifetimes. To develop high sensitivity, broadband, high dynamic range nonlinear absorptive materials for optical limiting.
+
+ACCOMPLISHMENTS
+	Performed optical power limiting and transient absorption spectroscopy on two osmium naphthalocyanines that showed optical power limiting at 532 nm in solution.  Each has a strong, additional, transient band at 425 and 450 nm, respectively.
+
+RESULTS
+	We have performed transient and nonlinear optical studies on a pyridine-substituted and a triphenylphosphine-substituted osmium naphthalocyanine (OsNcPy and OsNcPPh3), whose structures are shown in Fig. 1.  These were synthesized by the Marder group.  The linear electronic absorption spectra in toluene are shown in Figure 2.  The spectrum of OsNcPy shows a Q-band absorption at 695 nm and a minimum at 550 nm.  The OsNcPPh3 also shows a Q-band absorption at 699 nm and a minimum at 550 nm; however, the absence of the charge transfer band seen in the OsNcPy makes the transmittance window larger for OsNcPPh3.
+	Optical power limiting data were taken on OsNcPy and OsNcPPh3 in toluene using an f/5 optical geometry, 532 nm, 5 ns laser pulses, and a 10 Hz repetition rate, as shown in Fig. 3.  Significant optical limiting was observed at both wavelengths.  The 
+
+
+(a)						(b)
+Figure 2.  Visible absorption spectra of (a) OsNcPy and (b) OsNcPPh3.
+
+
+
+(a)						(b)
+Figure 1.  Structure of (a) OsNcPy and (b) OsNcPPh3.
+initial transmission at 532 nm was 70%, and the observed suppression (Tlinear/TEmax) was 1.04 at 100 μJ.  Temporary equipment problems have prevented the use of higher energies (usually up to 2 mJ), where we expect to see greater suppression, and suppression was unobservable in OsNcPy under these conditions.  Figure 3b shows the optical limiting behavior of a sample with 30% transmittance at the excitation wavelength, in which the suppression is more apparent.  The response for OsNcPPh3 was compared with that of an InClPc(t-butyl)4 solution in toluene with a 70% transmission at 532 nm where the limiting data were taken; InClPc(t-butyl)4 is known to be a high performance optical limiting dye at this wavelength.  The suppression of the InClPc(t-butyl)4 solution was observed to be 15 at 532 nm in the same geometry.  
+
+
+(a)					(b)
+Figure 3.  Optical power limiting data for OsNcPPh3 in toluene excited at 532 nm.  (a) 70% transmittance (b) 30% transmittance
+
+	In order to obtain some insight into the mechanism of the optical limiting, we performed nanosecond transient absorption spectra on OsNcPy and OsNcPPh3 in toluene.  The transient difference spectra are shown in Fig. 4.  Transient bleaching of the Q-band and the shorter wavelength absorption band is observed.  Both molecules exhibit a weak induced absorption at ~ 560 nm, which is attributed to absorption from the triplet state.  If unit intersystem crossing efficiency is assumed, the extinction coefficients of these transients at 532 nm are 5×103 M-1cm-1 for OsNcPy and 1.0×104 M-1cm-1 for OsNcPPh3.  They exhibited a stronger absorbance at short wavelength.  Again, if 100% intersystem crossing is assumed, ε = 7.4×104 M-1cm-1 at 455 nm for OsNcPy, and 2.3×105 M-1cm-1 at 425 nm for OsNcPPh3.  This shorter wavelength absorbance probably indicates a transition to a higher excited triplet state.
+
+
+
+
+
+
+(a)					(b)
+Figure 4.  Transient absorption spectrum (a) OsNcPy and (b) OsNcPPh3 in toluene excited at 680 nm (OD = 0.2).
+
+
+
+CONCLUSIONS
+	We have shown that two osmium naphthalocyanines show optical limiting at ~532 nm for nanosecond laser pulses consistent with a reverse saturable absorption mechanism.  In addition to the photoinduced absorbance at 560 nm, both molecules exhibit a stronger, short wavelength transient absorbance (455 nm for OsNcPy and 425 nm for OsNcPPh3) that probably results from an accessible higher triplet state.
+	In future work, we will attempt to further characterize the spectroscopy of the molecules.  Additionally, we can repeat the optical limiting experiments when the technical difficulties with our current system are resolved, to obtain a clearer representation of the optical suppression capabilities of these materials.  More materials of this sort will be analyzed in the future.
+
+Weck group Template project Q2/2008
+
+Covalent linkage-based template polymerization.  In the last quarter, we concentrated our efforts on synthesizing covalent-based templates (synthetic scheme below).  Hydrazide-containing monomer 3 was prepared starting from 11-aminoundecanoic acid in 3 steps.  exo-Norbornene acid was esterified with 3,3-diethoxy-1-propanol using DCC and DMAP to afford monomer 4.  Polymer 6 was synthesized by polymerization of monomer 4 using 5 mol % of Grubbs’ first-generation initiator (Mn = 6 000, PDI = 1.33) and subsequent hydrogenation on the poly(norbornene) backbone.  Monomer 3 was attached to aldehyde-containing poly(norbornene) template generated in situ from 6 to form hydrazone compound 7 which was then polymerized quantitatively using Grubbs’ third-generation initiator in chloroform.  However, isolated 8 was not soluble in common organic solvents such as dichloromethane, THF, DMF, and DMSO.  The insolubility of 8 can be attributed to the cross-linking resulting from the poly(norbornene) double bonds and residual initiators. In order to overcome this problem, hydrogenation on poly(norbornene) backbones of daughter polymers was attempted to yield fully hydrogenated double stranded poly(norbornene) 9.  Unfortunately, 9 was insoluble in common organic solvents precluding characterization.  We are currently developing synthetic strategies to synthesize and fabricate soluble analogues.
+
+Scheme 1. Synthesis of template 6 and hydrazone-based template polymerization.
+
+
+
+"
+4,/mnt/f/MURI 08/MURI Report – Tirrell.doc,"
+MURI Report – Tirrell
+August 18, 2008
+
+Recent efforts have focused on three essential elements of an evolvable templated polymerization process: i). development of bacterial strains capable of near-quantitative replacement of canonical amino acids by non-canonical analogues, ii). efficient methods for evolving proteins containing non-canonical amino acids, and iii). preparation of protein templates for sequence-controlled polymerization.  The results of the first two efforts have been published; the third effort is a primary focus of ongoing research.
+
+Development of Bacterial Strains Capable of Near-Quantitative Replacement of Canonical Amino Acids by Non-Canonical Analogues
+
+Aminoacyl-tRNA synthetases (aaRS) with altered substrate specificities have been used to enable both site-specific and residue-specific incorporation of non-canonical amino acids into recombinant proteins. Rational, computational, and combinatorial methods have been employed to engineer the amino acid binding pockets of several aaRS. Combinatorial strategies have been especially effective; Schultz and coworkers have developed powerful methods of selecting aaRS for site-specific incorporation, and our laboratory has reported an efficient screening system for use in global replacement of amino acids. But because the latter method relies on bio-orthogonal derivatization of non-canonical amino acid side chains, a new approach was needed for the more general problem of activating non-canonical substrates that lack reactive side chain functionality. With MURI support, we have developed a high-throughput method of screening aaRS libraries for global incorporation of non-canonical amino acids. We demonstrated this strategy by identifying an Escherichia coli methionyl-tRNA synthetase (MetRS) variant that activates 6,6,6-trifluoronorleucine (Tfn).  Tfn does not support significant protein synthesis in conventional E. coli expression strains.
+
+Unless there are barriers to protein synthesis that lie downstream of the aminoacylation step, the activity of aaRS toward amino acid analogs can be monitored by translation of model proteins in media depleted of the corresponding canonical amino acids.  The green fluorescent protein (GFP) is especially useful in experiments of this kind, in that its synthesis enables rapid screening of mutants via fluorescence-activated cell sorting (FACS).  We first prepared a GFP variant that retained substantial fluorescence upon replacement of its Met residues with a variety of non-canonical analogues; the modified GFP was then used as a reporter protein for the identification of E. coli strains in which Tfn supports protein synthesis in the absence of Met.
+
+Four positions (L13, P257, Y260, and H301) in the Met-binding site of E. coli MetRS were selected for saturation mutagenesis. A MetRS library was generated by assembly PCR with primers bearing NNK codons at the randomized positions. The PCR products were inserted into plasmid pMTY11 between the NotI and BsrGI sites, and the ligation mixture was transformed into electrocompetent E. coli DH10B cells, yielding more than 5´108 transformants. Plasmid DNA from the library was retransformed into cells of E. coli strain DH10B(Met-) bearing a gene for the GFP reporter protein.  Several rounds of positive and negative screening led to isolation of a MetRS variant bearing three amino acid sequence changes (L13S, Y260L and H301L).  Strains outfitted with this variant afforded near-quantitative replacement of Met by Tfn in expressed, recombinant proteins.
+
+The screening method described here is simple, efficient, and directly applicable to Met analogs other than Tfn.
+
+These results are described in detail in, Angew. Chem. Int. Ed. 46(28): 5340-5343 (2007).  T. H. Yoo and D. A. Tirrell. “High-throughput Screening for Methionyl-tRNA Synthetases that Enable Residue-specific Incorporation of Non-Canonical Amino Acids into Recombinant Proteins in Bacterial Cells.”
+
+Efficient Methods for Evolving Proteins Containing Non-Canonical Amino Acids
+
+Our approach to the development of evolvable protein templates for sequence-controlled polymerization requires access to methods for evolving proteins containing non-canonical amino acids.  With MURI support, we have demonstrated rapid, successful evolution of properly folded proteins containing many copies of amino acid analogues.  Much of this effort has focused on re-evolving GFP as a test substrate, and on trifluoroleucine (Tfl) as the test amino acid.
+
+We found that global replacement of leucine by Tfl causes misfolding of GFP (as expected); the fluorescence of bacterial cells expressing GFP was reduced to background levels by replacement of its leucine residues by Tfl.  Eleven rounds of random mutagenesis and screening via fluorescence-activated cell sorting yielded a GFP mutant containing 20 amino acid substitutions. The mutant protein in fluorinated form showed improved folding efficiency both in vivo and in vitro, and the median fluorescence of cells expressing the fluorinated protein was improved approximately 650-fold. The success of this approach demonstrates the feasibility of engineering functional proteins containing many copies of abiological amino acid constituents.
+
+These results are described in detail in, Proc. Natl. Acad. Sci. USA 104(35):13887-13890 (2007). T. H. Yoo, A. J. Link and D. A. Tirrell.  “Evolution of a Fluorinated Green Fluorescent Protein.”
+
+Preparation of Protein Templates for Sequence-Controlled Polymerization
+
+Much of our current work focuses on the preparation of protein templates for sequence-controlled polymerization.  Specifically, we have prepared coiled-coil proteins containing strategically-placed azidohomoalanine residues that serve as anchor sites for a variety of alkene monomers.    Pairing of coiled-coil sequences provides a mechanism for genetic encoding of heteropolymer structure.  First-generation polymerization experiments utilizing these templates are underway.
+"
+5,/mnt/f/MURI 08/ONR MURI Caltech EOY 2007 Kippelen 073008.doc,"
+ONR MURI Annual report Kippelen Group
+Reporting period July 2007 – June 2008
+ 
+
+3. Abstract
+The focus of this program is to develop structurally precise heteropolymers by using  thermodynamically controlled ring opening metathesis polymerization (ROMP) and to insert and test these new materials in DoD applications that require controlled nanoengineered materials.
+
+4. Technical Section
+
+Technical Objectives
+The objective of the Kippelen research group is to study the degrees of control on structure achieved in various norbornene side-chain co-polymers and to analyze its impact on properties such as charge transport, light-emission, and energy transfer in organic light-emitting diodes. 
+
+Technical Approach
+The new materials synthesized in the Marder and Weck groups are processed into thin films and subjected to various optical and electrical characterization experiments. Simultaneously, these materials are incorporated into organic light-emitting diodes for display and lighting applications. Standard current-voltage and luminance-voltage experiments are carried out and the photometric properties of these devices are analyzed and compared. Structure/performance relationships are studied. 
+
+Progress 
+
+During the past year, the Kippelen group studied mainly copolymers in which an orange-emitting iridium complex and a 2,7-di(carbazol-9-yl)fluorene group were attached as side-chains to a norbornene backbone. This copolymer was chosen because it showed the highest efficiency in an initial screening of copolymers with different iridium complexes. The efficiency of the OLED devices based on this copolymer was then increased through variations in the molecular weight of the polymer, by changing the iridium concentration in the copolymer, and by varying the nature and the length of the linkage group between the functional side groups and the polymer backbone. Covalent attachment of the host material to the polymer backbone along with the emissive metal complex by randomly copolymerizing two functional monomers in a controlled fashion allowed the combination of the properties of both compounds in a single material.  Furthermore, the structure of each monomer could be optimized independently without drastically modifying the polymerization reactivity. The molecular weight was varied because it may influence processing and the morphology of the films that in turn will impact device performance. Likewise, the concentration of the iridium emitter was varied and optimized to mitigate the adverse effects of concentration quenching and avoid any insufficient energy transfer from host to guest material in the emissive layer, as has been reported previously for evaporated or molecularly doped OLEDs. Finally, the nature and length of the linker group between the side-chains and the polymer backbone was varied. While a short spacer between the emissive center and the polymer backbone might be desirable in order to minimize the amount of inactive groups, a long spacer for the emitter may be desirable to achieve better mixing with the host material units. Therefore, in one study the length of the linker between the emitter and the polymer backbone was varied. In another study, the nature of the linker between the hole-transport material and the polymer backbone was changed in order to address the effect of its polarity on device performance, but kept its length short. Hence, an ether linker was replaced by a more polar ester linker. Such a substitution can lead to a decrease of the hole mobility of the polymer due to the higher polarity of the ester group, leading to better balance between holes and electrons, as suggested previously. The variation of the length of the linker group between the emitter and the backbone was motivated by previous work that suggested that a longer linker could minimize the wavefunction overlap between the organometallic complex and the hole-transport moiety, reducing Dexter triplet energy back-transfer from the emitter to the host material.  
+
+5. Progress Statement Summary
+Orange-emitting phosphorescent norbornene copolymers containing iridium complexes and bis(carbazolyl)fluorene groups in their side-chains were employed as the emissive layer in multilayer organic light-emitting diodes (OLEDs). The efficiency of the OLED devices was optimized by varying characteristics of the copolymers: the molecular weight, the iridium loading level, and the nature and length of the linker between the side-chains and the polymer backbone. A maximum efficiency of 4.9 ±0.4%, 8.8 ±0.7cd A-1 at 100 cd/m2 was achieved with an optimized copolymer. 
+
+
+6. Technology transfer
+None.
+
+7. Refereed journal articles
+
+""Highly efficient green phosphorescent organic light-emitting diodes with simplified device geometry,"" A. Haldi, B. Domercq, B. Kippelen, R.  Hreha, J. Cho, and S. Marder, Appl. Phys. Lett. 92, 253502 Jun. (2008).
+
+ “Norbornene-based copolymers with iridium complexes and bis(carbazolyl)fluorene groups in their side-chains and their use in light-emitting diodes,” A. Kimyonok, B. Domercq, A. Haldi, J.-Y. Cho, J.R. Carlise, X. Y. Wang, L. E. Hayden, S. C. Jones, S. Barlow, S. R. Marder, B. Kippelen, and M. Weck, Chem. Mater. 19 (23), 5602-5608, Nov. (2007).
+
+“Fluorenyl-substituted silole molecules: geometric, electronic, optical, and device properties,” X. Zhan, A. Haldi, C. Risko, C.K. Chan, W. Zhao, T.V. Timofeeva, A. Korlyukov, M. Y. Antipin, S. Montgomery, E. Thompson, Z. An, B. Domercq, S. Barlow, A. Kahn, B. Kippelen, J.-L. Brédas, and S.R. Marder, J. of Mater. Chem. 18, 3157-3166 May (2008).
+
+
+8. Books and chapters
+None.
+
+9. Technical reports
+None.
+
+10. Presentations-contributed
+Plenary Talk: “The dawn of organic printable flexible optoelectronics,” B. Kippelen, 8th Chitose International Forum on Photonics Science and Technology, Nov. 29-30, Chitose, Hokkaido, Japan (2007).
+
+ “New organic electron transport materials,” S. R. Marder, F. Amy, Z. An, M. Yu Antipin, S. Barlow, J.L. Brédas, C. K. Chan, J.-Y. Cho, B. Domercq, S. C. Jones, B. R. Kaafarani, A.  Kahn, B. Kippelen, T. Kondo, Y. Li, C. Risko,  Z. A. Starikova, Z. Tao, T. V. Timofeeva,  J. Yu,  X. Zhan, Q. Zhang, X. Zhang, X. Zhang, D. Zhu, presented at the European Conference on Electronic Materials, Metz, France Sep. 6—10 (2007).
+
+“Norbornene-based copolymers with pendant heavy-metal phosphors and bis(carbazole)  groups and their use in light-emitting diodes” S. Barlow, A. Kimyonok, B. Domercq, A. Haldi, J.-Y. Cho, J. R. Carlise, X.-Y. Wang, L. E. Hayden, S. C. Jones, Y. Zhang, C. Zuniga, S. R. Marder, B. Kippelen, and M. Weck, presented at ACS Spring, New Orleans, LA,  March 10-14, (2008).
+
+
+
+11. Patents
+
+""Norbornene-Based Copolymers With Iridium Complexes and Bis(Carbazolyl)Fluorene Groups In Their Side-Chains And Use Thereo,f"" A. Kimyonok, B. Domercq, A. Haldi, J.-Y. Cho, J.R. Carlise, X. Y. Wang, L.E. Hayden, S.C. Jones, S. Barlow, S.R. Marder, B. Kippelen, M. Weck, Provisional filed with USPTO on March 28, (2008).
+
+12. Honors
+Award Name:	Election to Fellow Status
+Conferral:	December 2007
+Recipient:	Dr. Bernard Kippelen
+Institution:	Georgia Institute of Technology
+Sponsor:	SPIE
+Description:	Election to Fellow Status
+
+
+13. Related sponsored work
+
+Source: NSF
+Title: ""Science and technology center on materials and devices for information technology research"" (Federal)
+(L. Dalton PI, Kippelen co-PI)
+Rate: $1,050,000	Period Covered: 08/02 – 7/09
+
+Source: Solvay, SA
+Title: “Organic materials for new generations of displays and solid-state light sources” (Industry) 
+(Bredas PI, with Marder and Kippelen)
+Rate: $570,000				Period Covered: 4/06 – 03/09
+
+
+ONR Statistics
+
+Papers Published: 3
+Papers In Press: 0
+Books/Chapters: 0
+Books/Chapters In Press: 0
+Technical Reports: 0
+Invention Disclosures: 1
+Patents Awarded: 0
+Patents Pending: 1
+Presentations: 0
+Contributed Presentations: 3
+Degrees Granted: 0
+Honors: 1
+
+List of personnel partially funded by the project
+
+Postdoctorals:
+Fuentes, Canek (0.5)
+Choi, Seungkeun (0.5)
+
+Graduate student:
+Kim, Jungbae (0.5)
+Owens, Dan (0.5)
+
+
+Graduate Students (Total): 1
+Women Graduate Students: 0
+Minority Graduate Students: 0
+Undergraduate Students (Total): 0
+Women Undergraduate Students: 0
+Minority Undergraduate Students: 0
+Post Doctoral Students (Total): 1
+Women Post Doctoral Students: 0
+Minority Post Doctoral Students: 0
+
+
+
+1
+"
+6,/mnt/f/MURI 08/ONR.MURI03.Mod. A00006.Summary.doc,"
+Office of Sponsored Research
+
+AWARD SUMMARY
+October 29, 2008
+
+
+RHG.MURI1-1-ONR.MURI03
+
+Identifying Information
+
+Principal Investigator:
+Dr. Robert Grubbs
+Dr. David Tirrell
+Sponsor:
+Office of Naval Research (ONR)
+Administering Division:
+CCE
+
+
+Project Period 
+Start/End Date:
+May 1, 2003 – May 29, 2009
+Sponsor Award #:
+N00014-03-1-0793
+
+
+Mod/Amend #:
+A00006
+Title:
+“Templation of Long-Chain Sequence-Controlled Heteropolymer”
+GPM Proposal Number:
+N/A
+
+
+
+
+
+Additional Comments
+
+The purpose of this award summary is to extend the period of performance through May 29, 2009 without additional costs.
+
+All other terms and conditions remain unchanged.
+
+
+Linked PTA’s:
+
+   DAT.MURI1-1-ONR.MURI03
+   RHG.MURI1-2.01-ONR.MURI03
+   RHG.MURI1-2.02-ONR.MURI03
+   RHG.MURI1-2.03-ONR.MURI03
+
+Distribution:
+
+Project Accounting (with copy of Mod. A00006)
+	Cece Manoochehri (with copy of Mod. A00006)
+
+
+
+OSR Contact:  Jenny Mercado x2115
+"
+7,/mnt/f/MURI 08/MURI Quarterly Repor#1487ED.doc,"
+
+"
+8,/mnt/f/MURI 08/MURI_MW_Jul08.doc,"
+Weck (GA Tech) Contributions to Caltech MURI 
+
+Abstract
+
+
+Technical Section
+See attached
+
+Progress Statement
+
+
+Technology Transfer
+none
+
+Refereed Journal Articles
+""Bridged Coordination Polymer Multilayers with Tunable Properties"" Clint R. South and Marcus Weck* Langmuir 2008, 24, 7506-7511.
+""Erasable Supramolecular Polymer Multilayers on Gold"" Clinton R. South, Victor Piñon III, and Marcus Weck* Angew. Chem., Int. Ed. 2008, 47, 1425-1428.
+""Norbornene-Based Copolymers with Iridium Complexes and Bis(Carbazolyl)fluorene Groups in Their Side-Chains and Their Use in Light-Emitting Diodes"" Alpay Kimyonok, Benoit Domercq, Andreas Haldi, Jian-Yang Cho, Joseph R. Carlise, Xian-Yong Wang, Lauren E. Hayden, Simon C. Jones, Stephen Barlow, Seth R. Marder, Bernard Kippelen*, and Marcus Weck* Chem. Mater. 2007, 19, 5602-5608.
+""Template Enhanced Ring-Opening Metathesis Polymerization"" Clinton R. South and Marcus Weck* Macromolecules 2007, 40, 1386-1394.
+""Modular and Dynamic Functionalization of Polymeric Scaffolds"" Clinton R. South, Caroline Burd, and Marcus Weck* Acc. Chem. Res. 2007, 40, 63-74.
+""Noncovalent Side-Chain Functionalization of Terpolymers"" Clinton R. South, Ken C.-F. Leung, Daniela Lanari, J. Fraser Stoddart,* and Marcus Weck* Macromolecules 2006, 39, 3738-3744.
+""Self-Assembly With Block Copolymers Using SCS Pd(II) Pincer Metal Coordination and Pseudorotaxane Formation"" Clinton R. South, Mary Nell Higley, Ken C.-F. Leung, Daniela Lanari, Alshakim Nelson, Robert H. Grubbs*, J. Fraser Stoddart*, and Marcus Weck* Chem. Eur. J. 2006, 12, 3789-3797.
+""Self-Sorting in Polymers"" Caroline Burd and Marcus Weck* Macromolecules 2005, 38, 7225-7230.
+""A Modular Approach toward Block Copolymers"" Mary Nell Higley, Joel M. Pollino, Eric Hollembeak, and Marcus Weck* Chem. Eur. J. 2005, 11, 2946-2953.
+""Multifunctionalization of Synthetic Polymer Systems via Self-Assembly"" Warren Gerhardt, Matija Crne, and Marcus Weck* Chem. Eur. J. 2004, 10, 6212-6221.
+""Non-Covalent Side-Chain Polymers: Design Principles, Functionalization Strategies, and Perspectives"" Joel M. Pollino and Marcus Weck* Chem. Soc. Rev. 2005, 34, 193-207.
+""Cross-linked and Functionalized ‘Universal Polymer Backbones’ via Simple, Rapid, and Orthogonal Multi-Site Self-Assembly"" Joel M. Pollino, Kamlesh P. Nair, Ludger P. Stubbs, Jacob Adams, and Marcus Weck* Tetrahedron 2004, 60, 7205-7215 (special issue in honor of Professor Robert H. Grubbs' Tetrahedron Price).
+
+Books and Chapters
+“Noncovalent Side-Chain Modification” Kamlesh P. Nair# and Marcus Weck, Wiley VCH in press
+
+Technical Reports
+none
+
+Presentations
+(1) May 21, 2008	Side-Chain Functionalized Supramolecular Polymers, Middle Atlantic Regional Meeting of the ACS, Queens, NY 
+(2) November 8, 2007	Functional Polymers via Self-Assembly; Brooklyn Polytechnic University, Brooklyn, NY 
+(3) November 1, 2007	Multifunctional Materials via Self-Assembly; Russell Marker Symposium, University of Maryland, College Park, MD
+(4) September 21, 2007	Functional Polymers via Self-Assembly; University of Connecticut, Storrs, CT
+(5) August 19, 2007	Multifunctional Materials via Self-Assembly; Symposium in Honor of Sir Fraser Stoddart, National ACS meeting, Boston, MA
+(6) August 19, 2007	Metal Complexes as Synthons for the Synthesis of Polymeric Materials; Symposium on: Metal Complexes in Polymer Science; National ACS meeting, Boston, MA
+(7) July 30, 2007	Supramolecular Polymers Based on ROMP; International Symposium on Olefin Metathesis, Pasadena, CA
+(8) June 21, 2007	Functional Polymeric Architectures via Self-Assembly; Gordon Research Conference, Polymer East, Mount Holyoke, South Hadley, MA
+(9) May 2, 2007	Functional Polymers via Multi-Site Self-Assembly; Virginia Tech, Blacksburg, VA
+(10) March 29, 2007	Functional Polymeric Architectures via Self-Assembly; Purdue University, West Lafayette, IN
+(11) March 26, 2007	Functional Polymeric Architectures via Self-Assembly; Symposium on: Exploring and Exploiting Nature with Biomimetics; National ACS meeting, Chicago, IL
+(12) March 5, 2007	Functional Polymers via Multi-Site Self-Assembly; Georgia Institute of Technology, School of Polymer and Textiles Engineering, Atlanta, GA
+(13) February 23, 2007	Functional Polymers via Multi-Site Self-Assembly; Rutgers University, Newark, NJ
+(14) January 20, 2007	Functional Polymers via Multi-Site Self-Assembly; Tulane University, New Orleans, LA
+(15) October 24, 2006	Functional Polymers via Multi-Site Self-Assembly; UCLA NanoSystems Seminar Series; University of California Los Angeles, Los Angeles, CA
+(16) July 22, 2006	Functional Polymers via Multi-Site Self-Assembly; Nobel Celebration Symposium for Robert H. Grubbs, Pasadena, CA
+(17) June 9, 2006	Self-Assembly Strategies Towards Functional Polymers; University of Eindhoven, The Netherlands
+(18) June 1, 2006	Self-Assembly Strategies Towards Functional Polymers; New York University, New York, NY
+(19) April 26, 2006	Functional Polymers via Multi-Site Self-Assembly; Solvay/Cope Symposium on Organic Electronics, Atlanta, GA
+(20) February 7, 2006	Materials Design via Self-Assembly; University of Wisconsin, Madison, WI
+(21) November 11, 2005	Functional Polymers via Multi-Recognition Site Self-Assembly; University of Chicago, Chicago, IL
+(22) November 8, 2005	Functional Polymers via Multi-Recognition Site Self-Assembly; University of Michigan, Ann Arbor, MI
+(23) October 14, 2005	Functional Polymers via Multi-Recognition Site Self-Assembly; DuPont Corporation, Wilmington, DE
+(24) September 9, 2005	Functional Polymers via Multi-Recognition Site Self-Assembly; University of Texas at Austin, Austin, TX
+(25) August 28, 2005	Non-Covalently Functionalized Copolymers; National ACS Meeting, Washington DC
+(26) June 16, 2005	Functional Polymeric Architectures via Multi-Step Self-Assembly; Gordon Research Conference on Supramolecules and Assemblies
+(27) February 18, 2005	Functional Polymers via Multi-Recognition Site Self-Assembly; University of Massachusetts, Amherst, MA
+(28) February 5, 2005	Functional Polymeric Architectures via Multi-Recognition Site Self-Assembly; University of New Orleans, New Orleans, LA
+(29) January 28, 2005	Functional Polymeric Architectures via Multi-Recognition Site Self-Assembly; University of North Carolina, Chapel Hill, NC
+(30) October 25, 2004	Functional Polymeric Architectures via Multi-Recognition Site Self-Assembly; University of Illinois at Urbana-Champaign, Urbana-Champaign, IL
+(31) September 10, 2004	Functional Polymeric Architectures via Multi-Recognition Site Self-Assembly; New York University, New York, NY
+(32) May 7, 2004	Materials Design via Multi Recognition Site Self-Assembly; FAME Meeting, Orlando, FL
+(33) April 28, 2004	Functional Polymeric Architectures via Multi-Recognition Site Self-Assembly; University of North Carolina, Charlotte, NC
+
+Patents
+""Norbornene-Bases Copolymers With Iridium Complexes and Bis(Carbazole) Flurone Groups in Their Side-Chains and Use Thereof."" A. Kimyonok, B. Domercq, A. Haldi, J.Y. Cho, J.R. Carlisle, X.Y. Wang, L.E. Hayden, S.C. Jones, S. Barlow, S.R. Marder, B. Kippelen, M. Weck, Provisional Patent Application #60/956,492, filed August 17, 2007.
+""Carbazole-Based Hole-Transport and/or Electron Blocking Materials and/or Host Polymer Materials.""  Y. Zhang, S.R. Marder, C. Zuniga, S. Barlow, B. Kippelen, A. Haldi, B. Domercq, M. Weck, A. Kimyonok, Provisional Patent Application #61015641, filed December 20, 2007.
+""ROMP-Polymerizable Electron Transport Materials Based on a Bis-Oxadiazole Moiety.""  S. R. Marder, S. Barlow, Y. Zhang, S. Pal, B. Kippelen, B. Domercq, A. Haldi, M. Weck, A. Kimyonok, U.S. Provisional Patent Application #61/015,777, filed December 21, 2007.
+
+Honors
+2007			Tetrahedron Most Cited Paper 2004-2007Award
+2006			Sigma Xi Young Faculty Award
+2006			CETL/BP Junior Faculty Teaching Excellence Award
+2005			Camille Dreyfus Teacher-Scholar Award
+2005			Alfred P. Sloan Research Fellow
+
+Related Sponsored Work
+Solvay, SA - Polymeric Materials for New Generations of Displays and Solid-State Light Sources, Marcus Weck (co-PI), April 1, 2006 - December 31, 2008, $1,920,000
+
+ONR Statistics
+
+Papers Published:					11
+Papers in Press:					0
+Books/Chapters:					0
+Books/Chapters in Press:			1
+Technical Reports	:				0
+Invention Disclosures:				0
+Patents Awarded:					0
+Patents Pending:					3
+Presentations:					33
+Degrees Granted:					7
+Honors:					5
+Graduate Students (Total):			8
+Women Graduate Students:			3
+Minority Graduate Students:			0
+Undergraduate Students (Total):			0
+Women Undergraduate Students (Total):		0
+Minority Undergraduate Students (Total):	0
+Post Doctoral Students (Total):			0
+Women Post Doctoral Students (Total):		0
+Minority Post Doctoral Students (Total):		0
+
+"
+9,/mnt/f/MURI 08/MURI ONR EOY 2008 data.doc,"
+MURI ONR EOY 2008  Perry
+
+Personnel 2007-2008
+Matteo Cozzoul, Research Scientist
+Wojciech Haske, Graduate Student
+Michal Maliki, Graduate Student
+Matthew Sartin, Postdoctoral Associate
+Nisan Siegel, graduate student
+
+Refereed Journal Articles:
+
+1.  “Relationship Between Structure and Solubility of Thiol-Protected Silver Nanoparticles and Assemblies,” C. A. Bauer, F. Stellacci, J. W. Perry, Topics in Catalysis, 47, 32-4 (2008). Invited Article
+
+2.  “Design of Emission Ratiometric Metal-Ion Sensors with Enhanced Two-Photon Cross-Section and Brightness,” S. Sumalekshmy, M. M. Henary, N. Siegel, P V. Lawson, Y. Wu, K. Schmidt, J.-L. Brédas, J. W. Perry, and C. J. Fahrni, J. Am. Chem. Soc., 129(39), 11888 (2007).
+
+3.  “Ultrafast Energy Migration in Chromophore Shell-Metal Nanoparticle Assemblies,” O. P. Varnavski, M. Ranasinghe, X. Yan, C. A. Bauer, S.-J. Chung, J. W. Perry, S. R. Marder and T. Goodson, III, J. Am. Chem. Soc., 128, 10988-10989 (2006).
+
+4.  “Device Physics: Update on 3D Displays,” J. W. Perry, Nature, 451, 636-637 (2008).
+
+5.  “Porphyrin Dimer Carbocations With Strong Near Infrared Absorption and Third-Order Optical Nonlinearity,” K. J. Thorley, J. M. Hales, H. L. Anderson and J. W. Perry, Chem. Commun. (2008). Published Online
+
+6.  “Photophysics and Two-Photon Absorption Properties of Chromophore-Coated Silver Nanoparticles,” C. A. Bauer, W. Haske, S.-J. Chung, S. R. Marder, and J. W. Perry, J. Phys. Chem. C, (2008). To be submitted
+
+Book Chapters/Periodicals/Conference Publications
+1.  “Technological Advances Brighten Horizon for Organic Nonlinear Optics,” N. Peyghambarian, L. Dalton, A. Jen, B. Kippelen, S. R. Marder, R. Norwood, and J. W. Perry, Laser Focus World, 42, 85-91 (2006). Invited Article 
+
+2.  “Organic and Polymeric 3rd Order Nonlinear Optical Materials and Device Applications,” J. M. Hales and J. W. Perry, in Introduction to Organic Electronic and Optoelectronic Materials and Devices, S.-S. Sun and L. Dalton, Eds. (CRC Press, Orlando, 2008).
+
+3.  ""Two-Photon Absorption in Cross-Shaped Chromophores with Phenylene-Vinylene Backbones,"" M. Rumi, S.J. Pond, Q. Zhang, M. Bishop, Y. Zhang, S. Barlow, S.R. Marder, J.W. Perry, Proc. SPIE, Vol. 6891, 689104-1 -689104-12 (2008).
+
+
+Presentations:
+
+Invited:
+1.  “Organic Chromophore/Metal Nanoparticle Composite Systems: Enhanced Two-Photon Properties and 3D Micro- and Nano-Fabrication,” Optics & Photonics, SPIE National Meeting, San Diego, CA (July 31-August 4, 2005).
+
+2.  “3D Microfabrication, Sensing and Imaging with Two-Photon Absorbing Materials,” 230th American Chemical Society National Meeting, Washington, DC (August 28-September 1, 2005).
+
+3.  “Nanomaterials for 3D Microfabrication, Sensing and Imaging,” US/Egypt Workshop on “Nanostructured Materials and Nanotechnology” Alexandria, Egypt (Nov. 12-15, 2005).
+
+4.  “Organic Chromophore/Metal Nanoparticle Composite Systems: Optical Properties,” J. W. Perry, C. A. Bauer, W. Haske, F. Stellacci, W. Wenseleers, S. Marder, T. Meyer-Friedrichsen, M. Maliki, Materials Research Society Fall Meeting, Boston, MA (Nov. 28, 2005).
+
+5.  “Optical Limiting with Molecular, Polymeric, and Plasmonic Materials,” J. W. Perry, Tri-Service Information Exchange Meeting on Hardened Materials, Hilton Head, SC (April 14 – 16, 2008).
+
+6.  “Organic Photonic Materials for All-Optical Signal Processing and Optical Limiting,”  J. W. Perry, International Conference on Organic Nonlinear Optics 10 (ICONO10), Sante Fe, NM (May 18-23, 2008).
+
+
+ONR Statistics  Total for MURI
+
+Papers Published: 6
+Papers In Press: 0
+Books/Chapters: 1
+Books/Chapters In Press: 0
+Technical Reports: 0
+Invention Disclosures: 0
+Patents Awarded: 0
+Patents Pending: 0
+Presentations: 6
+Contributed Presentations: 0
+Degrees Granted: 0
+Honors: 2
+Graduate Students (Total): 3
+Women Graduate Students: 0
+Minority Graduate Students: 0
+Undergraduate Students (Total): 0
+Women Undergraduate Students: 0
+Minority Undergraduate Students: 0
+Post Doctoral Students (Total): 1
+Women Post Doctoral Students: 0
+Minority Post Doctoral Students: 0
+
+"
+10,/mnt/f/MURI 08/MURI_SRM_Jul08techpart.doc,"
+Caltech MURI – Technical Section: Seth Marder
+
+1. Three-site Donor-Spacer-Donor-PDI-Donor-Spacer-Donor materials
+We have previously synthesized compounds labeled 1-7 in figure 1 in which a perylene diimide (PDI) core is substituted with various arylethynyl groups. Transient absorption studies from Mike Wasielewski’s group indicate that photoexcitation of the D-A-D chromophore 1 gives a charge-separated state that undergoes charge recombination with a lifetime of ca. 1 ns. Two new compounds, 8 and 9, have now been synthesized in which an additonal stronger, but more weakly coupled, donor group (D') is linked by a non-conjugated bridge to the p-amine donor, to investigate the effect on the charge recombination lifetimes. 
+
+Figure 1. Scheme for synthesis of bis(arylethynyl)PDIs {An = p-MeOC6H4}.
+
+
+Figure 2. Synthesis of intermediate alkynes S8 and S9.
+
+The new D'¼D-A-D¼D' PDIs were synthesized as shown in Figure 1. The alkyne starting materials, S8 and S9, were synthesized as shown in Figure 2. Cyclic voltammetry has been used to compare 8 and 9 with 1. The absorption spectra (Figure 3a) are similar to those for 1, i.e., they show a perylene-diimide-like absorption at <500 nm and a low-energy charge-transfer-like feature. The new compounds show additional reversible oxidation; the potentials corresponding to mono- and dication formation in these two species are less anodic than for 1 suggesting that it is the secondary donors that are oxidized in first and that the donors conjugated to the perylene diimide core are only oxidized when the tri- and tetracations are formed. Comparison with model compounds further supports this hypothesis. Chemical oxidation of 9 offers further support that the secondary donor is the preferred location for a hole (at least in the absence of an extra electron on the PDI); Figure 3b shows that the formation of a triarylamine radical cation absorption at ca 800 nm. Our hope was then that photoexcitation would lead to a charge separation between D and A groups and that a second electron-transfer from D' to D+ would then lead to a 
+Figure 3. Left: absorption spectra of 8 and 9. Right: evolution of the absorption spectra of 9 on addition of an oxidizing agent. 
+long-lived charge-separated state. Such long-lived states might be useful in photovoltaic devices and, depending on their absorption spectra, for use as a part of optical pulse suppression systems. However, transient absorption experiments, again in collaboration with Wasielewski, reveal that the recombination times for 8 and 9 are respectively much shorter than and similar to that found for 1. It is possible that the secondary charge separation is hampered by electrostatic interactions in the first-formed excited state. Moreover, regardless of whether this happens, the back electron-transfer is governed by a complex interplay of driving force, reorganization energy, and electronic coupling. Future more sophisticated designs will have to be developed to afford more reliable secondary charge-separation.
+
+2.  Synthesis of perylene diimide / carbazole polymers.
+Perylene diimides (PDIs) attached to conjugated polymers may be of interest as systems exhibiting (one or two-photon-induced) photoinduced charge separation. This charge separation may be of use for either optical pulse suppression or photovoltaic applications. Figure 4. Structures of perylene-dimide / carbazole monomers.
+We have successfully synthesized PDIs grafted to 2,7-dibromo and 3,6-dibromo-carbazole monomers (Figure 4) for further polymerization to give the corresponding PDIs grafted polycarbazoles. However, we have had limited success as polymerizing the dibromo derivatives. Therefore, as shown in Figure 5, a diiodo monomer was synthesized and used for polymerization. As expected, the much more active iodine here facilitates polymerization, although only low molecular-weight materials have been obtained so far (with a degree of polymerization was found to be around 4 according to the GPC result on the crude product). The absorption spectra of the polymer in solution showed the extra peaks at 200-350 nm compared to the monomer, which also indicated the forming of the oligomers. 
+Figure 5. Synthesis and polymerization of diiodo monomers. 
+3. Carbazole-based Monomers and Polymers as Hosts for Phosphors
+
+Figure 6. Previously synthesized norbornene host monomer.
+We are interested in the synthesis of building blocks, monomers, oligomers, and polymers with potentially interesting electronic and / or optical properties. Increasingly, organic light-emitting diodes (OLEDs) incorporate phosphorescent heavy-metal complexes, such as those of Ir and Pt, as lumophores in order that both singlet and triplet states resulting from electron and hole recombination can be harvested. Typically the heavy-metal complexes are dispersed within a host material with appropriate energy levels to facilitate the injection of both holes and electrons and with a sufficiently high triplet energy to allow for both singlet and triplet energy transfer to the heavy-metal guest of interest. Copolymerization of host and guest monomers offers a means of creating solution-processable emissive layers in which the possibility of phase separation is reduced and in which there is a possibility of controlling guest-guest and host-guest aggregation phenomena. One of the most widely used of these hosts is 4,4'-bis(carbazol-9-yl)biphenyl, CBP. We have previously reported a norbornene derivative of bis(carbazolyl)fluorene (Figure 6) and its copolymerization with platinum and iridium monomers.1,2 
+We have now synthesized a range of other carbazolyl monomers. Figure 7 shows the synthesis of a host monomer and the corresponding homopolymer containing a similar bis(carbazolyl)biphenyl building block. The monomers (and polymers) of Figures 6 and 7 are expected to show similar triplet energies,3 ionization potentials, and electron affinities. However, the different point of attachment of the polymer chain may alter the morphology of polymers and may affect host-guest aggregation. We have also synthesized polymerizable versions of the so-  
+Figure 7. Synthesis of a bis(carbazolyl)biphenyl host norbornene monomer.
+called mCP and mCPy host materials (Figures 8 and 9). The corresponding small molecules have Figure 8. Synthesis of mCP  host norbornene monomer.
+
+been used as hosts for Ir and Pt phopshors. In particular, mCP has been shown to be a more effective host for blue Ir phosphors, such as iridium(III)bis[2-(4,6-difluorophenyl)pyridinato-N,C2']picolinate, than CBP due to its higher lying triplet energy.4 On the other hand, efficient white OLEDs have been made using emissive layers composed of a Pt phosphor guest, Platinum(II) 2-(4',6'-difluorophenylpyridinato-N,C2')(pentane-2,4-dionato-O,O), which exhibits blue molecular emission and orange excimer emission, and a mCPy host.5 Improved performance relative to a mCP device was observed; one explanation advanced was that the electron-poor pyridine ring led to a more balanced injection of holes and electrons into the emissive layer. We are currently investigating the photoluminescence properties of host-guest systems composed of these polymers and metal-complex phosphors and use of these blends in organic light-emitting diodes. Based on these results, hosts with copolymerized with appropriate guest monomers.
+Figure 9. Synthesis of mCP  host norbornene monomer.
+
+ 
+
+4. Phthalocyanine Side-Chain Monomer and Polymers
+
+Figure 10. Proposed Pc / iodinated copolymer for optical pulse suppression studies. 
+Figure 11. Attempted synthesis of a norbornene-functionalized ZnPc.
+Phthalocyanines (Pcs) are another functionality of interest for organic electronic applications, particularly for use in solar cells, with CuPc being probably the most widely used. Most work with Pcs in solar cells has been limited to vacuum-processed materials. One possible method to facilitate solution processible Pcs would be to attach Pc building blocks to the side chain of a polymer. Moreover, ROMP offers the possibility of creating self-phase-segregating block polymers with donor a Pc block and another acceptor block. Pcs are also of interest for another DOD application: optical pulse suppression. The relatively weak linear aborption in the ca. 400-600 nm range, coupled with a strong triplet absorption in this range, makes examples in which high intersystem crossing rates can be achieved efficient reverse saturable absorbers in this wavelength range.6 For applications, films consisting of high chromophore densities are required;  however, it is important that the linear and nonlinear optical films of these materials are not adversely affected by the tendency of Pcs to aggregate. Side-chain polymers offer a possible means of incorporating high concentrations of Pcs in solution-processible films, while possibly also impairing Pc aggregation. We have begun synthetic studies aimed at such polymers using ZnPc as our initial building block, due to its simplicity and diamagnetism (and hence ease of NMR characterization). If successful, we anticipate that our methodology can be adapted to synthesize CuPc polymers for photovoltaic applications. For optical pulse supression, we can either use heavy-metal Pcs or copolymerize ZnPc with heavy-atom-containing comonomers, as shown in Figure 9. Figure 10 shows one possibility based on cocyclization of a norbornene-functionalized phthalonitrile with tert-butylphthalonitrile. Unfortunately, the desired product is similar in polarity and size to the tetra-(tert-butyl)-ZnPc side product, making separation by column chromatography and size-exclusion chromatography difficult. Figure 11 shows an alternative route to a norbornene-Pc monomer. Although this route requires an additional step, the polar alcohol functionality allows separation of a mono-functionalized Pc in moderate yield after two columns. We anticipate that this alcohol should be readily esterified to a norborene monomer as shown; this work is currently in progress. 
+
+References
+Figure 12. Alternative route to a norbornene-functionalized ZnPc.
+(1)	Cho, J.-Y.; Domercq, B.; Barlow, S.; Suponitsky, K. Y.; Li, J.; Timofeeva, T. V.; Jones, S. C.; Hayden, L. E.; Kimyonok, A.; South, C. R.; Weck, M.; Kippelen, B.; Marder, S. R. Organometallics 2007, 26, 4816.
+(2)	Kimyonok, A.; Domercq, B.; Haldi, A.; Cho, J.-Y.; Carlise, J. R.; Wang, X.-Y.; Hayden, L. E.; Jones, S. C.; Barlow, S.; Marder, S. R.; Kippelen, B.; Weck, M. Chem. Mater. 2007, 19, 5602.
+(3)	Marsal, P.; Avilov, I.; da Silva Filho, D. A.; Brédas, J. L.; Beljonne, D. Chem. Phys. Lett. 2004, 392, 521.
+(4)	Holmes, R. J.; Forrest, S. R.; Tung, Y.-J.; Kwong, R. C.; Brown, J. J.; Garon, S.; Thompson, M. E. Appl. Phys. Lett. 2003, 82, 2422.
+(5)	Williams, E. L.; Haavisto, K.; Li, J.; Jabbour, G. E. Adv. Mater. 2007, 19, 197.
+(6)	Perry, J. W.; Mansour, K.; Lee, I.-Y. S.; Wu, X.-L.; Bedworth, P. V.; Chen, C.-T.; Ng, D.; Marder, S. R.; Miles, P.; Wada, T.; Tian, M.; Sasabe, H. Science 1996, 273, 1533.
+
+
+"
+11,/mnt/f/MURI 08/muri oct 08/muri publications08.doc,"
+
+
+1.  ""The Exclusivity of Multivalency in Dynamic Covalent Processes."" J. D. Badjic, S. J. Cantrill, R. H. Grubbs, E. N. Guidry, R. Orenes, J. F. Stoddart, Angewandte Chemie, 2004, 43 (25), 3273-3278. 
+
+2.  “Magic Ring Catenation by Olefin Metathesis.” E. N. Guidry, S. J. Cantrill, J. F. Stoddart, and R. H. Grubbs, Organic Lett. 2005, 7 (11), 2129-2132. 
+
+3.  “Template-Directed Olefin Cross Metathesis.” S. J. Cantrill, R. H. Grubbs, D. L. Lanari, K. C. F. Leung, A. Nelson, K. G. Poulin-Kerstien, S. P. Smidt, J. F. Stoddart, and D. A. Tirrell, Organic Letters 2005, 7(19), 4213-4216.
+
+4.  “Self-Assembly with Block Copolymers Using SCS Pd(II) Pincer Metal Coordination and Pseudorotaxane Formation.” C. R. South, M. N. Higley, K. C. F. Leung, D. Lanari, A. Nelson, R. H. Grubbs, J. F. Stoddart, and M. Weck, Chemistry – A European Journal 2006, 12 (14), 3789-3797.
+
+5.  “Olefin-Metathesis Catalysts for the Preparation of Molecules and Materials (Nobel Lecture).” R. H. Grubbs, Angew. Chem. Int. Ed Engl. 2006, 45 (23), 3760-3765. 
+
+6.  “Template-Directed One-Step Synthesis of Cyclic Trimers by ADMET.” H. Hou, K. C.-F. Leung, D. Larari, A. Nelson, J. F. Stoddart, and R. H. Grubbs. J. Am. Chem. Soc. 2006, 1228 (48), 15358-15359. 
+
+7.  “Bifunctional [c2]daisy-chains and their Incorporation into Mechanically Interlocked Polymers.” E. N. Guidry, J. Li, J. F. Stoddard, and R. H. Grubbs, J. Am. Chem. Soc. 2007, 129 (29), 8944-8945. 
+
+In preparation:
+""Charm Bracelet Polymers: Catenated Cyclic Polymers""  E. N. Guidry, P. Clark, W. Y. Chan, R. H. Grubbs, In preparation. 
+""Interlocked Polymers: Molecular Muscles""  P. Clark, R. Elmquist, R. H. Grubbs, in prepaation
+
+
+“Olefin-Metathesis Catalysts for the Preparation of Molecules and Materials (Nobel Lecture 2005)”. R. H. Grubbs, Adv. Synth. Catal. 2007, 349, 34-40.
+
+
+"
+12,/mnt/f/MURI 08/muri oct 08/stoddart_MURI.doc,"
+Fraser Stoddart MURI Report – University of California, Los Angeles
+Synthesis and Operation of an Acid-Base Controllable [c2]Daisy Chain
+Artificial molecular-based muscles, which can convert chemical, electrochemical, or photochemical energy into mechanical motion, have attracted attention as a result of their potential for spawning nanoelectromechanical systems (NEMS).[1] Several materials, such as conducting polymers,[2] single-walled carbon nanotubes,[3] and dielectric elastomers,[4] have been developed which exhibit muscle-like behavior at the nanoscale level. However, all these systems rely upon the response of a bulk substance, rather than on the behavior of individual molecules. Recently, artificial muscles have been designed on a molecular scale by taking advantage of conformational changes exerted by electrochemical stimuli.[5-8] For example, oligothiophene-calix[4]arene copolymers[5] and thiophene-fused annulenes[6] exhibit molecular actuating behavior under redox control while crown ether-annelated oligothiophenes[7] and polyheterocyclic strands[8] show ion-triggered muscle-like properties. Nanoscale molecular motions, based on artificial molecular machines,[9] offer alternative opportunities to design artificial muscle-like materials. 
+Bistable rotaxanes hold promise because relative linear mechanical translocation of the ring and dumbbell components can be achieved upon activation by chemical, [10] electrical field, [11] or light irradiation [12] stimuli. Converting such internal molecular motions into practical actuating materials requires relocating these internal motions into components, which, when taken together, exhibit expansion and contraction in a linear direction. Sauvage et al. [13] have reported a linear molecular muscle, based on a transition metal templated, doubly-threaded rotaxane, which can undergo the required expansion/contraction motion on the addition/removal of metal ions. On the other hand, we have reported[14] a switchable, palindromically-constituted, doubly-bistable [3]rotaxane which can be self-assembled onto gold-coated microcantilevers with disulfide-terminated tethers emanating from its two rings in such a manner that they can be moved towards and away from each other under redox control. Controllable and reversible deflection of the microcantilevers can be achieved when the integrated system is exposed to the synchronous addition of oxidants and reductants (or subjected to oxidizing or reducing electrochemical potentials). 
+Acid-base controllable, bistable, rotaxane-based molecular shuttles have been reported[10b,c] previously in which a dibenzo[24]crown-8 (DB24C8) ring switches under acid-base control between two different recognition sites on a dumbbell component, where one of the sites is a secondary dialkylammonium (R2NH2+) center and the other one, an N,N´-dialkylated-4,4´-bipyridinium (Bpym2+) unit. Although this switching has subsequently been employed[10d,e] in the design of more complex machines such as nanoscale elevators, the mechanical motions are still only relative internal movements, i.e., there is no contraction/expansion in their overall molecular dimensions. Herein, a [c2]daisy chain topology[15] was identified (Scheme 1) wherein two mechanically interlocked filaments glide along one another through the terminal crown ether rings and in which the end of each filament is attached to bulky stoppers to prevent dethreading of the rings. In this Janus type molecule, the two DB24C8 rings move between the two different recognition sites — R2NH2+ and Bpym2+ — under acid-base control, conferring upon the molecule contraction/expansion, reminiscent of the action of a muscle. 
+The template-directed synthesis[15b,c] of this kind of [c2]daisy chain relies on the self-assembly of two benzylammonium-terminated DB24C8 rings to give a thermodynamically stable, dimeric pseudorotaxane[16] in solvents such as MeCN. The incorporation of the second recognition site (Bpym2+) equipped with a bulky stopper affords a kinetically stable, [c2]daisy chain. Employing this synthetic strategy, both 1a•6PF6 and 1b•6PF6 have been prepared (Scheme 2) in which the latter compound (1b•6PF6) contains tetradeuterated catechol rings. 
+
+Scheme 1. Schematic representation and the anticipated mechanical motions within an acid-base controlled molecular muscle system based on a [c2]daisy chain.
+The intermediate compounds 4a•PF6 and 4b•PF6 with benzylic bromide functions self-assemble (Scheme 2) into the dimeric superstructures (4a)2•2PF6 and (4b)2•2PF6, respectively. Prior to this self-assembly step, the synthesis involves the condensation of the formyl-substituted DB24C8 derivatives 2a and 2b[15b] with methyl 4-(aminomethyl)benzoate to give the corresponding imines. Simultaneous reduction (LiAlH4) of the imine bonds and the ester functions gave compounds 3a and 3b, respectively, with overall yields in excess of 88%. The hydroxylmethyl groups in 3a and 3b were then converted into bromomethyl functions by reaction with PBr3 in CH2Cl2, followed by protonation of the amino groups with HBr and counterion exchange with NH4PF6 to afford the compounds 4a•PF6 and 4b•PF6 in overall yields exceeding 80%. The 1H-NMR spectra of 4a•PF6 and 4b•PF6 revealed that the molecules exist as monomers in polar solvents such as Me2SO. In less polar solvents, such as CHCl3 and MeCN, dimeric species (4a)2•2PF6 and (4b)2•2PF6 and higher oligomers constitute the major components. The solvent-dependent aggregation was further confirmed by electrospray ionization mass spectrometry (ESI-MS) measurements of 4a•PF6 in protic and aprotic solvents. A single positively charged peak at m/z = 660.22 ([M–PF6]+) was revealed when a protic solvent, e.g., MeOH, was used as the solvent for electrospray ionization; on the contrary, a doubly positive charged peak at m/z = 660.40 ([M2–2PF6]2+) was observed when using a less polar and aprotic solvent such as MeCN, indicating the formation of dimeric species.[15b,16] Finally, (4a)2•2PF6 and (4b)2•2PF6 were treated with 5[10b] in MeCN/CHCl3 (1:1 v/v) at 60 ˚C for 10 days, after which the products were purified by column chromatography (SiO2) using MeOH / 2M aqueous NH4Cl / MeNO2 (7:2:1, v/v/v) as the eluent before being subjected to counterion exchange with NH4PF6, yielding 1a•6PF6 and 1b•6PF6 in 15-40% yields. The low yields can be attributed to the existence of higher oligomers based on the monomers 4a•PF6 and 4b•PF6, as well as to the propensity of the dimeric superstructures to disassemble during the stoppering reaction at elevated temperatures. High resolution ESI mass spectra of 1a•6PF6 and 1b•6PF6 revealed major peaks at m/z = 1230.996 and 1234.986, respectively, which can be assigned to doubly-threaded species after the loss of two PF6– counterions.  1H-NMR and COSY-NMR spectroscopies were also used to characterize these doubly-interlocked structures. Although compound 1a•6PF6 shows well-resolved peaks in its 1H-NMR spectrum in CD3CN, the resonances originating from the aromatic protons of both the simple and substituted rings overlap. This overlap can be overcome by recording the 1H-NMR spectrum of the deuterated analog 1b•6PF6.
+
+Scheme 2. The template-directed syntheses of the molecular muscles 1a•6PF6 and 1b•6PF6.
+The 1H-NMR spectrum of 1b•6PF6 in CD3CN revealed well-resolved peaks, all of which could be assigned (Figure 1a) with the help of COSY-NMR measurements. The spectrum demonstrates that the DB24C8 rings exhibit an overwhelming selectivity for the encirclement of the R2NH2+ recognition sites. The peaks responsible for the –OCH2CH2O– repeating unit appear in the region from 3.2–4.5 ppm and are not individually resolved on account of the DB24C8 rings′ association with the –NH2+– centers. The resonance for the NH2+ protons was observed at δ = 7.21 ppm. The protons on the unbound Bypm2+ units appear as clearly resolved peaks at low field, resonating in the region, δ = 8.3–9.0 ppm. As a result of the diamagnetic ring currents of the DB24C8 and the π-π interaction the catechol rings, the signals (box in Figure 1) for Ha, Hb and Hc are shifted to higher field. In addition, two sets of signals (red for the major isomer and pink for the minor isomer) for the undeuterated catechol rings were indentified in the region from δ = 6.1–7.0 ppm, indicating that there are two diastereoisomers present in the solution. This phenomenon was also observed in a previously reported[15b] self-assembling [c2]daisy chain involving DB24C8 rings and –NH2+– center. On account of the unsymmetrical substitution of the DB24C8 ring, dimerization gives two C2 symmetrical (chiral) enantiomers and a Ci symmetrical (meso) diastereoisomer (See SI). The two sets of signals for the catechol ring protons in the 1H-NMR spectrum of 1b•6PF6 can be assigned to the racemic modification and the meso isomer.
+
+Figure 1. 1H-NMR spectra of compound 1b•6PF6 in CD3CN: (a) the original spectrum; (b) after addition of 2.1 equiv P1-t-Bu base; and (c) further addition of 2.1 equiv CF3CO2H.
+In order to initiate muscle-like behavior at the molecular level, 2.1 equivalents of phosphazene base P1-t-Bu[17] were added to a solution of 1b•6PF6 in CD3CN. The 1H-NMR spectrum of the resulting mixture revealed that the DB24C8 rings had migrated to the Bypm2+ recognition sites (Figure 1b) on deprotonation of the –NH2+– centers. This interpretation was supported by the fact that (1) the peaks for the Bypm2+ protons are shifted to lower field on association with the DB24C8 rings, (2) the peaks for the protons (Hf and Hg) on the phenylene spacers are shifted to higher field because of the mutually π overlapping nature of the paraphenylene ring systems in the contracted geometry, (3) the separate peaks for Ha, Hb and Hc in the diastereoisomers are less anisochronous and give only one set of accidentally equivalent signals because of the lack of π-π interactions of the catechol ring, and (4) the signal for proton Hh is shifted to higher field when the DB24C8 rings migrate to the Bypm2+ sites. Reprotonation of the –NH2+– centers following the addition of 2.1 equivalents of CF3CO2H resulted in the return of the DB24C8 rings to the –NH2+– centers as evidenced by the regeneration of the original 1H-NMR spectrum (Figure 1c). Thus, 1H-NMR spectroscopic measurements demonstrate that molecules 1a6+ and 1b6+ show reversible muscle-like contraction and expansion under acid-base control. AMBER molecular modeling also suggested that after deprotonation, the longitudinal molecular size became ~29% (0.9 nm) shorter than the original extended length (Scheme 1).
+Acid-base switching was also monitored by UV/Vis absorption spectroscopy in a 0.39 mM solution of 1a•6PF6 in MeCN (Figure 2). Upon addition of 2.1 equivalents of phosphazene base P1-t-Bu, the colorless solution turned yellow and a new maximum appeared around 400 nm in the spectrum. This band reflects[16] the CT interaction between the Bypm2+ and DB24C8 rings. Upon addition of 2.5 equivalents of CF3CO2H to the yellow solution the color was expelled and the original UV/Vis spectrum was reinstated.[18] 
+
+Figure 2. Change in UV-Vis absorption spectra of compound 1a•6PF6 in CD3CN (0.39 mM) before deprotonation (black), after deprotonation with 2.1 equiv of P1-t-Bu base (red) and after reprotonation with 2.5 equiv of CF3CO2H (green). Inset from left to right side shows the color change during this process.
+The versatile synthetic strategy we have employed to make this acid-base controllable [c2]daisy chain is readily amenable to modification with carefully chosen functional groups, leading to the production of functionalized muscle molecules, which could, for example, be incorporated into liquid crystalline[19] or polymeric[20] systems. The materials properties of these much larger supramolecular and molecular systems should then be responsive to changes in pH at the monomeric level within their superstructures and structures, respectively.
+References
+[1]  a) R. H. Baughman, Science 2005, 308, 63–65; b) A. Barreiro, R. Rurali, E. R. Hernández, J. Moser, T. Pichler, L. Forró, A. Bachtold, Science 2008, 320, 775–778; c) K. L. Ekinci, M. L. Roukes, Rev. Sci. Instrum. 2005, 76, 061101.
+[2]  a) T. F. Otero, J. M. Sansiñena, Adv. Mater. 1998, 10, 491–494; b) T. F. Otero, M. T. Cortés, Adv. Mater. 2003, 15, 279–282; c) L. Bay, K. West, P. Sommer-Larsen, S. Skaarup, M. Benslimane, Adv. Mater. 2003, 15, 310–313; d) S. Zhang, C. Huang, R. J. Klein, F. Xia, Q. M. Zhang, Z.-Y. Cheng J. Intell. Mater. Sys. Struct. 2007, 18, 133–145.
+[3]  a) R. H. Baughman, C.-X. Cui, A. A. Zakhidov, Z. Iqbal, J. N. Barisci, G. M. Spinks, G. G. Wallace, A. Mazzoldi, D. De Rossi, A. G. Rinzler, O. Jaschinski, S. Roth, M. Kertesz, Science 1999, 284, 1340–1344; b) G. M. Spinks, G. G. Wallace, L. S. Fifield, L. R. Dalton, A. Mazzoldi, D. De Rossi, I. I. Khayrullin, R. H. Baughman, Adv. Mater. 2002, 14, 1728–1734; c) V. Mottaghitalab, B. Xi, G. M. Spinks, G. G. Wallace Synth. Met. 2006, 156, 796–803; d) S. R. Shin, C. K. Lee, I. S. So, J. H. Jeon, T. M. Kang, C. W. Kee, S. I. Kim, G. M. Spinks, G. G. Wallace, S. J. Kim, Adv. Mater. 2008, 20, 466–470.
+[4]  a) Q.-M. Zhang, V. Bharti, X. Zhao Science 1998, 280, 2101–2104; b) R. Pelrine, R. Kornbluh, Q. Pei, J. Joseph, Science 2000, 287, 836–839; c) A. Buguin, M.-H. Li, P. Silberzan, B. Ladoux, P. Keller J. Am. Chem. Soc. 2006, 128, 1088–1089; d) K. Urayama, Macromolecules 2007, 40, 2277–2288; e) G. Chen, N. Kawazoe, Y. Fan, Y. Ito, T. Tateishi, Langmuir 2007, 23, 5864–5867; f) F. Carpi, G. Gallone, F. Galantini, D. De Rossi, Adv. Funct. Mater. 2008, 18, 235–241.
+[5]  a) H.-H. Yu, A. E. Pullen, B. Xu, T. M. Swager, Polym. Mater. Sci. Eng. 2000, 83, 523–524; b) P. A. Anquetil, H.-H. Yu, J. D. Madden, P. G. Madden, T. M. Swager, I. W. Hunter, Proc. SPIE Int. Soc. Opt. Eng. 2002, 4695, 424–434; c) P. A. Anquetil, H.-H. Yu, J. D. Madden, T. M. Swager, I. W. Hunter, Proc. SPIE Int. Soc. Opt. Eng. 2003, 5051, 42–53; d) C. Alemán, D. Zanuy, J. Casanovas J. Org. Chem. 2006, 71, 6952–6957; e) D. Zanuy, J. Casanovas, C. Alemán J. Phys. Chem. B 2006, 110, 9876–9881.
+[6]  a) M. J. Marsella, R. J. Reid, Macromolecules 1999, 32, 5982–5984; b) M. J. Marsella, R. J. Reid, S. Estassi, L.-S. Wang, J. Am. Chem. Soc. 2002, 124, 12507–12510.
+[7]  B. Jousselme, P. Blanchard, E. Levillain, J. Delaunay, M. Allain, P. Richomme, D. Rondeau, N. Gallego-Planas, J. Roncali, J. Am. Chem. Soc. 2003, 125, 1363–1370.
+[8]  a) M. Barboiu, J.-M. Lehn, Proc. Natl. Acad. Sci. U.S. A. 2002, 99, 5201–5206; b) A. Petitjean, R. G. Khoury, N. Kyritsakas, J.-M. Lehn, J. Am. Chem. Soc. 2004, 126, 6637–6647; c) M. Barboiu, L. Prodi, M. Montalti, N. Zaccheroni, N. Kyritsakas, J.-M. Lehn, Chem. Eur. J. 2004, 10, 2953–2959; d) A.-M. Stadler, N. Kyritsakas, R. Graff, J.-M. Lehn, Chem. Eur. J. 2006, 12, 4503–4522; e) N. Giuseppone, J.-L. Schmitt, L. Allouche, J.-M. Lehn, Angew. Chem., Int. Ed. 2008, 47, 2235–2239.
+[9]  a) V. Balzani, M. Gómetz-López, J. F. Stoddart, Acc. Chem. Res. 1998, 31, 405–414; b) V. Balzani, A. Credi, F. M. Raymo, J. F. Stoddart, Angew. Chem. 2000, 112, 3484–3530; Angew. Chem., Int. Ed. 2000, 39, 3348–3391; c) A. Harada, Acc. Chem. Res. 2001, 34, 456–464; d) V. Balzani, A. Credi, M. Venturi, Molecular Devices and Machines – A Journey into the Nano World, Wiley-VCH: Weinheim, 2003; e) I. Willner, B. Basnar, B. Willner, Adv. Funct. Mater. 2007, 17, 702–717; f) V. Balzani, A. Credi, M. Venturi, ChemPhysChem, 2008, 9, 202–220.
+[10]  a) A. S. Lane, D. A. Leigh, A. Murphy, J. Am. Chem. Soc. 1997, 119, 11092–11093; b) P. R. Ashton, R. Ballardini, V. Balzani, I. Baxter, A. Credi, M. C. T. Fyfe, M. T. Gandolfi, M. Gómez-López, M.-V. Martínez-Díaz, A. Piersanti, N. Spencer, J. F. Stoddart, M. Venturi, A. J. P. White, D. J. Williams, J. Am. Chem. Soc. 1998, 120, 11932–11942; c) A. M. Elizarov, H.-S. Chiu, J. F. Stoddart, J. Org. Chem. 2002, 67, 9175–9181; d) J. D. Badjić, V. Balzani, A. Credi, S. Silvi, J. F. Stoddart, Science 2004, 303, 1845–1849; e) J. D. Badjić, C. M. Ronconi, J. F. Stoddart, V. Balzani, S. Silvi, A. Credi, J. Am. Chem. Soc. 2006; 128, 1489–1499.
+[11]  a) J.-P. Collin, P. Gaviña, J.-P. Sauvage, New. J. Chem. 1997, 21, 525–528; b) L. Raehm, J.-M. Kern, J.-P. Sauvage, Chem. Eur. J. 1999, 5, 3310–3317; c) J.-P. Collin, J.-M. Kern, L. Raehm, J.-P. Sauvage, in Molecular Switches; B. L. Feringa, Ed.; Wiley-VCH: Weinheim, 2000, pp 249–280; d) V. Bermudez, N. Capron, T. Gase, F. G. Gatti, F. Kajzar, D. A. Leigh, F. Zerbetto, S. Zhang, Nature 2000, 406, 608–611; e) R. Ballardini, V. Balzani, W. Dehaen, A. E. Dell'Erba, F. M. Raymo, J. F. Stoddart, M. Venturi, Eur. J. Org. Chem. 2000, 591–602; f) A. Altieri, F. G. Gatti, E. R. Kay, D. A. Leigh, F. Paolucci, A. M. Z. Slawin, J. K. Y. Wong, J. Am. Chem. Soc. 2003, 125, 8644–8654; f) S. Nygaard, K. C.-F. Leung, I. Aprahamian, T. Ikeda, S. Saha, B. W. Laursen, S. Kim, S. W. Hansen, P. C. Stein, A. H. Flood, J. F. Stoddart, J. O. Jeppesen J. Am. Chem. Soc. 2007, 129, 960–970.
+[12]  a) R. Ballardini, V. Balzani, M. T. Gandolfi, L. Prodi, M. Venturi, D. Philp, H. G. Ricketts, J. F. Stoddart, Angew. Chem. 1993, 105, 1362–1364; Angew. Chem., Int. Ed. Engl. 1993, 32, 1301–1303; b) P. R. Ashton, R. Ballardini, V. Balzani, A. Credi, R. Dress, E. Ishow, O. Kocian, J. A. Preece, N. Spencer, J. F. Stoddart, M. Venturi, S. Wenger, Chem. Eur. J. 2000, 6, 3558–3574; c) A. M. Brouwer, C. Frochot, F. G. Gatti, D. A. Leigh, L. Mottier, F. Paolucci, S. Roffia, G. W. H. Wurpel, Science 2001, 291, 2124–2128; d) F. G. Gatti, S. Len, J. K. Y. Wong, G. Bottari, A. Altieri, M. A. F. Morales, S. J. Teat, C. Frochot, D. A. Leigh, A. M. Brouwer, F. Zerbetto, Proc. Natl. Acad. Sci. U.S.A. 2003, 100, 10–14; e) A. Altieri, G. Bottari, F. Dehez, D. A. Leigh, J. K. Y. Wong, F. Zerbetto, Angew. Chem. 2003, 115, 2398–2402; Angew. Chem., Int. Ed. 2003, 42, 2296–2300; f) S. Saha, J. F. Stoddart, Chem. Soc. Rev. 2007, 36, 77–92.
+[13]  a) M. C. Jiménez-Molero, C. Dietrich-Buchecker, J.-P. Sauvage, Angew. Chem. 2000, 112, 3422–3425; Angew. Chem., Int. Ed. 2000, 39, 3284–3287; b) M. C. Jiménez-Molero, C. Dietrich-Buchecker, J.-P. Sauvage, A. De Cian, Angew. Chem. 2000, 112, 1351–1354; Angew. Chem., Int. Ed. 2000, 39, 1295–1298; c) M. C. Jiménez-Molero, C. Dietrich-Buchecker, J.-P. Sauvage, Chem. Eur. J. 2002, 8, 1456–1466; d) C. Dietrich-Buchecker, M. C. Jiménez-Molero, V. Sartor, J.-P. Sauvage, Pure Appl. Chem. 2003, 75, 1383–1393; e) S. Bonnet, J-P. Collin, M. Koizumi, P. Mobian, J.-P. Sauvage, Adv. Mater. 2006, 18, 1239–1250.
+[14]  a) T. J. Huang, B. Brough, C.-M. Ho, Y. Liu, A. H. Flood, P. Bonvallet, H.-R. Tseng, M. Baller, S. Magonov, J. F. Stoddart, Appl. Phys. Lett. 2004, 85, 5391–5393; b) Y. Liu, A. H. Flood, P. A. Bonvallet, S. A. Vignon, B. H. Northrop, H.-R. Tseng, J. O. Jeppesen, T. J. Huang, B. Brough, M. Baller, S. Magonov, S. D. Solares, W. A. Goddard, C.-M. Ho, J. F. Stoddart, J. Am. Chem. Soc. 2005, 127, 9745–9759.
+[15]  a) P. R. Ashton, I. W. Baxter, S. J. Cantrill, M. C. T. Fyfe, P. T. Glink, J. F. Stoddart, A. J. P. White, D. J. Williams, Angew. Chem. 1998, 110, 1344–1347; Angew. Chem., Int. Ed. 1998, 37, 1294–1297; b) S. J. Cantrill, G. J. Yoon, J. F. Stoddart, D. J. Williams, J. Org. Chem. 2001, 66, 6857–6872; c) S.-H Chui, S. J. Rowan, S. J. Cantrill, J. F. Stoddart, A. J. P. White, D. J. Williams, ChemCommun, 2002, 2948–2949; d) E. N. Guidry, J. Li, J. F. Stoddart, R. H. Grubbs, J. Am. Chem. Soc. 2007, 129, 8944–8945.
+[16]  a) P. R. Ashton, I. W. Baxter, F. M. Raymo, J. F. Stoddart, A. J. P. White, D. J. Williams, R. Wolf, Angew. Chem. 1998, 110, 2016–2019; Angew. Chem., Int. Ed. 1998, 37, 1913–1916; b) N. Yamaguchi, D. S. Nagvekar, H. W. Gibson, Angew. Chem. 1998, 110, 2518–2520; Angew. Chem., Int. Ed. 1998, 37, 2361–2364.
+[17]  Full name: N-t-butyl-N´, N´, N´´, N´´, N´´´, N´´´-hexamethylphosphorimidic.
+[18]  It should be pointed out that after the deprotonation/reprotonation cycle, waste salts are produced in solution. Moreover, some PF6– counterions are partially replaced by CF3CO2–, therefore, there are slight shifts in the NMR spectra with respect to the original spectra. Similar phenomenon in the UV-Vis absorption spectra can be explained by the same reasons.
+[19]  a) I. Aprahamian, T. Yasuda, T. Ikeda, S. Saha, W.R. Dichtel, K. Isoda, T. Kato, J.F. Stoddart, Angew. Chem. Int. Ed. 2007, 119, 4759–4763; b) M. Bispo, D. Guillon, B. Donnio, H. Finkelmann, Macromolecules, 2008, 41, 3098–3108. 
+[20]  a) T. Mirfakhrai, J. D. W. Madden, R. H. Baughman, Materials Today, 2007, 10, 30–38; b) W. Zhang, W. R. Dichtel, A. Z. Stieg, D. Benítez, J. K. Gimzewski, J. R. Heath, J. F. Stoddart, Proc. Natl. Acad. Sci. USA 2008, 105, 6514–6519.
+
+
+"
+13,/mnt/f/MURI 08/muri oct 08/muri stuff from old prop.doc,"
+Nature uses precise control through molecular recognition and self-assembly processes to endow biopolymers with a variety of properties, e.g., mechanical strength, charge generation, light harvesting, directional energy and charge transport, and coding and storage of information. Precisely controlled primary structures—i.e., regiospecific sequences of monomer units—play important roles in biopolymers by locating key functional groups—e.g., those imparting unique electronic and molecular recognition properties—in a manner that determines the secondary and tertiary structures of the biopolymers.  The late 20th century ushered in an era of unprecedented control in the design, synthesis and characterization of complex molecules.  It heralded major advances (1) in carbon-carbon bond-forming reactions, (2) in our abilities to introduce functional groups with precise stereochemistries, and (3) in spectroscopic techniques that enable the study of structures and reactions at small dimensions and on short time-scales.  It also witnessed the advent of noncovalent synthesis (strict self-assembly) and supramolecular assistance to covalent synthesis, i.e., template-directed synthesis.  During the same time period, molecular biologists were developing a fundamental understanding of how nature, by relying upon DNA, RNA, proteins, and glyco-conjugates, accomplishes a diverse set of tasks using, for the most part, very simple bond-forming reactions and a small pool of monomers.  The take-home message from biology emphasizes the importance of of templation. We plan to make structurally precise heteropolymers by three different routes – namely:
+* Employing templation and supramolecular assistance to covalent synthesis to make wholly synthetic, long-chain, sequence-controlled heteropolymers;
+* advancing the capabilities of thermodynamically controlled metathesis-based polymerization techniques to assist in the efficient production of these heteropolymers;
+using precise photodeprotection methodologies to deprotect the side chains on a polymer backbone with single-site control of the deprotection chemistry to impart patterns of stored chemical information upon the heteropolymer.
+
+
+
+.  Synthesis of Templates.  Nucleic acids serve remarkably well as templates for the synthesis of sequence-controlled heteropolymers, including DNA, RNA and proteins.  The chemistry of nucleic acids is, however, limited by the fact that DNA and RNA each use only four bases to encode sequence information.  We propose to extend the concept of macromolecular templating to entirely new chemical systems, by designing artificial protein templates characterized by site-specific binding of monomeric building blocks that can be converted efficiently to polymeric forms in the bound state.  Proteins are attractive in this regard because of the diverse chemistries of the 20 amino acid side chains, and because recent developments have led to methods for efficient incorporation of several dozen non-canonical amino acids.  The diversity that becomes available in this way provides a basis for ordering diverse sets of monomers through engineered host-guest interactions.  The use of artificial proteins allows control of binding-site spacing, secondary structure, and molecular flexibility in the template. 
+
+The templates of primary interest in this work will consist of periodic polypeptides characterized by precise control of length, sequence and stereochemistry.  Over the last 10 years, Tirrell’s laboratory has prepared many such polymers, some with degrees of polymerization as high as 700.  Yields in such syntheses are surprisingly good; gram quantities can be readily isolated from laboratory-scale bacterial cultures.  Sequence control allows the design of polymers, soluble either in water or in organic solvents, as well as control of molecular rigidity.  The initial templates will consist of helical polypeptides, which exhibit persistence lengths on the order of tens of nanometers, in order to impose an appropriate geometry for sequence-regulated polymerization of bound monomers.
+
+Polypeptide templates will be prepared via expression of artificial genes in bacterial cells, as shown schematically in Figure 2.  The use of artificial genes in this context offers three critical advantages: (1) it ensures the precise control of structure required of an effective molecular template, (2) it facilitates parallel preparation of libraries of alternative templates, and (3) it allows recovery, amplification and evolution of the underlying coding sequences.  If one is to achieve not only synthesis, but also evolution, of sequence-controlled heteropolymers, access to libraries of amplifiable coding sequences is essential.
+
+
+
+Figure 2.  Schematic illustration of template synthesis.  The sequence of the artificial protein template is designed with consideration of the chemistry and geometry needed for effective templation, as well as consideration of solubility and conformational properties.  The sequence is encoded into an artificial gene, which is then cloned and expressed in a bacterial host.  This method provides near-absolute control of molecular architecture, access to a wide variety of side-chain functionality, and a mechanism for selection, amplification, and evolution of sequence.
+
+2.1.2.  Recognition Motifs.  In principle, a variety of recognition motifs could be used to assemble the desired monomers along the backbone of the template.  These could be based upon (1) simple electrostatic, (2) hydrogen bonding, (3) arene [π–π] stacking, and (4) metal-ligand interactions.  Only one such type of interaction, however, will be described here in order to demonstrate the approach – namely hydrogen bonding.  By virtue of their selectivity, directionality, and tunable strength, hydrogen bonds are the obvious candidates for initial investigations.  The two orthogonal hydrogen-bonded molecular-recognition pairings that we will employ (Figure 3) at the outset are (1) the guanine·cytosine (G·C) DNA/RNA base pair, and (2) the ‘threading’ interaction of secondary dialkylammonium ions through the cavities of appropriately-sized crown ether derivatives to form9 pseudorotaxanes.  In general, such complexes are comprised of a rod-like component that is encircled by one (or more) complementary macrocycles.  Perhaps one of the best understood pseudorotaxane systems is that which utilizes the interaction between dibenzylammonium ions and dibenzo[24]crown-8 (DB24C8) macrocycles, and hence the reason for its incorporation into this proposal.
+
+
+
+Figure 7.  Ruthenium alkylidene catalysts 115 and 216 are both capable of achieving the olefin metathesis transformations outlined in the central box (ROMP: Ring-Opening Metathesis Polymerization, RCM: Ring-Closing Metathesis, ADMET: Acyclic Diene METathesis).
+2.1.3.  Polymerization Methods.  The methods chosen for polymerization of the monomers that are assembled along the template must proceed within the bounds of certain criteria.  Specifically, the process must (1) be tolerant of, and orthogonal to, the functionalities employed in the molecular recognition events, (2) exhibit low termination and chain transfer rates,  (3) be reversible, in order to allow self-correction of errors, and (4) display sensitivity to concentration effects.  The first two requirements are self-evident.  Factors 3 and 4, however, are the key to the success of this approach in its most general embodiment.  Ring opening poly-merizations are the most appropriate for these processes since these reactions involve a ring/chain equilibrium14 and are characterized by having a critical concentration below which the monomers will not polymerize.  Therefore, if the bulk concentration in such a reaction is below the critical concentration, the monomers will only be present above their critical concentration when they are assembled on the template polymer.  In such cases, we may forego the step in which the catalytic species is anchored to the template and allow it to roam freely in solution.  Crucially, monomers will be chosen such that they are not highly strained in order that the polymerization is reversible, thereby allowing the units along the template to equilibrate into the most thermodynamically stable sequence.  Furthermore, in some situations, the interactions of the assembly may be sufficiently strong such that excess monomer can be removed before polymerization.  Under these circumstances, non-ring opening reactions can also be utilized.  
+
+Ruthenium alkylidene-catalyzed olefin metathesis—ROMP and ADMET—provide polymerization methods (Figure 7) that fit most of the requirements outlined above.  ROMP reactions of cyclic olefins with moderate ring strain are reversible and have significantly high critical concentrations.  ADMET can be run under conditions with non-volatile additives to give a system that exhibits an apparent critical concentration that is controlled by the concentration of the additives.  Although the primary focus of our approach will center upon these olefin metatheses, in principle other ring opening reactions, such as those of lactones and ethers, can show the desired characteristics when there is proper functional group compatibility.
+
+2.1.4.  Template Release.  Once the duplex of daughter and template chains has been formed, strand separation must be accomplished in order to allow turnover.  In an approach where the catalyst is initially anchored to the template via a disulfide bond, the newly-formed polymer retains this covalent linkage to the template.  This bond can be cleaved under reductive conditions (e.g., NaBH4), leaving only the noncovalent daughter/template interactions.  Subsequently, an approach analogous to that encountered in the polymerase chain reaction (PCR) protocol, where hybridization and primer extension occur at low temperature and the product duplex is subsequently melted in a high-temperature cycle, could be adopted here.  Upon elevation of the temperature, the hydrogen bonding interactions grow less and less significant, and the daughter polymer ‘melts’ away from the template and can be washed away.  As a consequence of its attachment to a solid support, the protein template remains behind and, after cooling, the system can be recycled upon the addition of further catalyst and monomers.  Alternatively, the hydrogen bonding may be disrupted upon the addition of an excess of polar solvent, which may also serve as the media in which the daughter polymer is washed away, to leave behind the template for recycling.
+
+2.1.5.  Modification of Daughter Polymers. The protocols outlined in the previous subsections will provide a demonstration of the approach.  The procedures described in Figure 8 provide a way to generalize the materials prepared.  Required functional groups can be installed by either covalent or noncovalent interactions with the daughter polymer once the molecular recognition components have been cleaved. As discussed in Section 2.1.2., the directionality of the ester linkage will be used to impart a pattern of hydroxyl and carboxylic acid functional groups—a sequence inherited from the protein
+
+2.4.  Post-Polymerization Functionalization
+Some of the potential applications of sequence-controlled polymers include those based upon optical and electronic properties, e.g., photorefractive, photovoltaic and optical limiting applications. For example, we are interested in examining whether careful control of block length in copolymers can lead to different phase separation behavior in photovoltaic-type polymers, and in comparing the electronic behavior of polymers with sudden and gradual inter-gradation between blocks (i.e., ...AAAAAAAAAAABBBBBBBBBBB... vs. ...AAAAABAABABABABABABBABBB...).  For these applications, the pendant groups attached to monomers synthesized by the routes described in Sections 2.1–2.3 will be required to have specific electronic properties. We have already synthesized hydroxy-functionalized bis(triarylamines) (Figure 18c,d)23,24 – suitable for transporting holes in photorefractive and photovoltaic devices, or to act as donors in optical-limiting systems – and hydroxy-functionalized photorefractive chromophores (Figure 18a,b).25 Fullerenes will also be useful as components of this sort of material; one of the several known carboxylic acid derivatives of C60 (for example see reference26) will be useful for linking to polymers with X hydroxy groups. Other groups useful for these applications involve electron transport moieties such as suitably functionalized oxadiazoles (for example those shown in Figure 18e,f and previously used in reference27) and dioxaborines. For optical limiting applications discussed below, we will incorporate acceptors such as those shown in Figure 18e–h and one and two-photon sensitizers, such as those shown in Figure 18 (c,d, and i, where n = 1–3).  Other groups with specific optical and electronic functions are described in Section 3.2.	
+
+
+
+Figure 18.  Side groups functionalized for attachment (as groups “A” and “B”) to polymers for electronic and optical applications; Marder et al., have synthesized the photorefractive dyes shown in (a) and (b),25 and the amines shown in (c)23 and (d).24  The oxadiazole shown in (e) has previously been reported,27 and that in (f) should be accessible by a similar route. Compounds (g–i) will be synthesized in this program for optical limiting applications.
+
+3.  Characterization and Applications of Structurally Precise Heteropolymers
+3.1.  Structural Characterization
+Evaluation of the effectiveness of the proposed synthetic methods will largely be accomplished through mass spectrometry, using techniques such as MALDI-TOF. Initial experiments will determine the molecular weights and molecular weight distributions of the templated heteropolymers, and will correlate those parameters with the characteristics of the templates used in synthesis.  Sequence analysis will be accomplished by reversal of the metathesis polymerization through the use of excess ethylene followed by mass analysis of the resulting fragments.  Analogous methods are now widely used to sequence proteins by mass spectrometry. 
+
+3.2. Optical and Electronic Characterization and Applications of Structurally Precise Polymers
+As a test-bed to study the degrees of control on structure and its impact on properties, we will study energy transfer and fundamental photonic, electronic and molecular recognition processes such as charge transport, photogeneration of charges, light emission and energy transfer.  We will determine how processing impacts (1) the performance of ultra-high sensitivity sensors and (2) the fabrication of lightweight photovoltaic cells for mobile power applications, (3) macromolecular memory systems, as well as (4) optical limiting applications. These processes are highly sensitive to the distance, orientation, and electronic couple between various groups and therefore can provide information about the structures of the heteropolymers. The newly synthesized materials, with controlled structure and function, will therefore be processed into solid films that will be subjected to various optical and electrical characterization experiments described below. Simultaneously, these materials will be incorporated into organic electronic and photonic devices that are relevant to DoD objectives - for example, light-weight solar cells and plastic organic electronics. The performance of these devices will be compared to that of devices made from “conventional” organic conjugated materials, such as random conjugated polymers and amorphous glasses of small molecules. To test the structure of the new materials, we will study various optical and electrical processes that occur over a range of length scales. Such interactions are listed in Table 1 and include long-range point charge/dipole moment interactions, medium-range energy-transfer reactions governed by dipole-dipole interactions (Förster), and short-range electron-transfer reactions between donor- and acceptor-like molecules. This experimental survey will provide us with the tools to probe interactions—and consequently structure—on length scales ranging between a nanometer to tens of nanometers.
+
+3.2.1.  Charge-Transport Measurements. The charge mobility in amorphous organic semiconductors is strongly temperature and field dependent and can be analyzed using the disorder formalism developed by Bässler, Borsenberger, and co-workers.28–30 In the disorder formalism, it is assumed that charge transport occurs by hopping through a manifold of localized states with superimposed energetic and positional disorder. The width of the energy distribution of the hopping sites is strongly dependent on the dipole moment of the dopant molecule as well as on the polymer repeat unit. The argument is that a random distribution of dipoles generates fluctuations in electrostatic potential that add to effects resulting from van der Waals interactions. For many applications, such as photorefractive polymers,2 semiconducting polymers are doped with molecules with large dipole moments. The dipolar molecules provide the electro-optic activity required to produce a field-induced refractive index changes in the holographic recording materials. Unfortunately, in most host-guest systems known to date, these dipolar molecules reduce the charge mobility due to dipolar disorder. We believe that the charge transport properties can be optimized in the proposed new material because the distance, orientation and electronic coupling between the transport groups and electro-optic groups can be controlled. This approach can lead to macroscopic phases in which the distance between interacting transport groups and dipolar groups can be controlled. Monodisperse polymers with donor and/or acceptor groups will be synthesized and their transport properties will be measured using the time-of-flight technique.
+
+3.2.2.  Energy-Transfer Experiments.  To probe structure on a medium length scale we will study Förster-type energy-transfer reactions that scale as R–6 in macromolecules containing light-emitting groups. For instance, we will incorporate the fluorescent dye 4,4'-N,N'-dicarbazolebiphenyl as an energy donating molecule and the organometallic complex fac-tris(2-phenylpyridine)iridium(III) as an energy accepting  guest into structural precise macromolecules at fixed distances. We have recently determined31 the Förster radius (R0 ~ 3 nm) of this pair in amorphous films and developed a numerical model to simulate the photoluminescence efficiency of films with various host and guest concentrations and therefore distributions of distances. By varying the structures of the proposed new heteropolymers, we will control the average distance between the guest and host molecules and control the rate of energy transfer. This site isolation mechanism is critical to control the color of organic light-emitting diodes. 
+
+3.2.3.  Photodissociation Experiments and Photovoltaics.
+
+
+"
+14,/mnt/f/MURI 08/muri oct 08/muri fall 08 part II.doc,"
+
+"
+15,/mnt/f/MURI 08/muri oct 08/MURI Quarterly Report 7-22-2008 rhg.doc,"1
+
+
+
+
+
+PROGRESS STATEMENT SUMMARY
+California Institute of Technology
+Fall 2008
+Part I
+Cyclic Charm Bracelet Summary
+
+	Using a cyclic polyammonium template, a polycatenane was synthesized via ring-closing metathesis of a bis-olefin containing polyether in the presence of the Grubbs 2nd generation catalyst.  The cyclic template was prepared in a two-component click cyclization reaction.  The nature of the interaction between the macrocyclic polyether and the cyclic polyammonium ion was investigated by two-dimensional diffusion ordered NMR spectroscopy.
+	
+
+Daisy-Chain Dimer Summary
+
+We report the synthesis and development of three distinct [c2]Daisy-Chain Dimers (DCD) and efforts toward the incorporation of these DCD into materials.  “Standard binding motif” (SBM) dimers are modeled from the original DCD structures reported by our group wherein the ammonium binding site and crown-type moiety are juxtaposed within the structure of the macromer.  In contrast to the original DCD, however, these new SBM DCD have a long alkyl backbone separating the binding site from the cap, a feature that should allow for increased flexibility and movement of the crown ether upon removal of the binding interactions (i.e., deprotonation of the ammonium).  There are two “Generations” of SBM DCD described.  The Generation I SBM DCD had an unstable ester linkage coupling the cap to the backbone, and rapidly cleaved in the presence of acid or base to generate a pseudorotaxane species.  This instability is addressed in the Generation II SBM DCD by utilizing a phenol linkage in place of the ester.  
+Though these SBM DCD are intriguing species, we believed it prudent to explore an interlocked architecture whose movement would more closely mimic a biological muscle (i.e., the bound state of the dimer represents its shortest-length conformation).  To this end, we report the synthesis of a “Reverse Binding Motif” (RBM) DCD, the product of the dimerization of a macromer with a molecular topology wherein the binding and recognition moieties are separated in the backbone.  Furthermore, post-dimerization purification and functionalization techniques have been elucidated that facilitate the inclusion of the RBM DCD within a polymeric chain or gel network.  Several attempts to study these dimer-gels were made, but none were successful due to the fragile and brittle properties of the gel.  Consequently, we have turned our attention to the development of several new trialkyne crosslinking agents in an effort to produce ‘softer’ gels more amenable to study.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MURI Progress Report
+Erin Guidry, Paul Clark, Wing Yan Chan, and Robert H. Grubbs
+7 / 25 / 2008
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+INTERLOCKED COMPOUNDS
+
+Magic Charm Bracelet Synthesis
+Erin Guidry, Paul Clark, Wing Yan Chan, and Robert H. Grubbs
+
+Polycatenane Formation via Clipping.	
+Inspiration for the formation of cyclic polycatenanes can be found in the vast number of syntheses of catenanes and rotaxanes that have appeared in the chemical literature.  Most of the strategies employ kinetically-controlled covalent bond formation as the final interlocking step.1  This strategy does not always result in high yields of mechanically interlocked compounds because of the irreversible formation of unwanted non-interlocked by-products.  An alternative strategy, however, exploits dynamic covalent chemistry,2 an approach that utilizes reversible reactions in which the product distribution depends on thermodynamic rather than kinetic control.  This way, the yield of a mechanically interlocked compound reflects its stability relative to those of any other non-interlocked by-products, with proof-reading and error-checking operating up until a final equilibrium state is reached.  Examples of equilibrium reactions employed as the final bond-forming step in the synthesis of catenanes and rotaxanes include the reversible formation of imines,3 disulfides4 and cyclic acetals,5 as well as olefin metathesis mediated by functional-group tolerant ruthenium alkylidene catalysts.6  This protocol has been applied successfully in the syntheses of both [2]catenanes,7 [2]rotaxanes,8 rotaxane bundles9 and [c2]daisy chain compounds.10  
+Previously, we have demonstrated that the ring-closing of certain olefin-containing polyether substrates around appropriately-substituted secondary dialkylammonium ions results11 (eq 1) in the reversible formation of [2]rotaxanes,8a [2]catenanes,7a rotaxane bundles9 and [c2]daisy-chain compounds.10  Thus, for example, by employing the ruthenium catalyst (H2IMes)(PCy3)(Cl2)Ru=CHPh (5),12 the macrocyclic polyether 4 containing two olefinic double bonds can be induced to undergo  ring-closing metathesis in the presence of the macrocyclic compound 3-H·PF6, wherein the ammonium center acts as the template for the formation of the [2]catenane 6H·PF6.  Utilizing this strategy, we decided to explore the ring-closing metathesis (RCM) of polyether substrates around cyclic, polymeric secondary dialkylammonium ions as a method to synthesize the elusive cyclic polycatenane.
+	To synthesize the desired cyclic polyammonium ion, we chose a polymer cyclization method based on the copper-catalyzed Huisgen dipolar cycloaddition (“click” reaction) of terminal alkynes and azides to form 1,4-disubstituted 1,2,3-triazoles.13  This “click” reaction has been used extensively in polymer and materials chemistry due to its high efficiency and operational simplicity, and has more recently been used to synthesize cyclic polystyrene.14  A challenge in preparing macrocyclic polymers using “click” cyclization is that few polymers can be efficiently synthesized with appropriate end groups.  Ring-opening metathesis polymerization (ROMP) in the presence of chain transfer agents (CTA) allows for the preparation of end functionalized (telechelic) polymers with good molecular weight control and relatively narrow polydispersities.15  
+	ROMP monomer 13, was identified as a synthetic target due to the sufficient ring-strain of 9-membered rings16 and the presence of a protected nitrogen, which, upon further manipulation, could be transformed into a dialkylammonium ion.  As outlined in Scheme 1, cyclooctadiene (COD) was monoepoxidated (mCPBA/CHCl3) to form 7.  This epoxide was subsequently ring-opened (LiAlH4/THF) to yield alcohol 8.  Standard Swern17 conditions (DMSO/oxalyl chloride/CH2Cl2/Et3N) oxidized alcohol 8 to ketone 9.  Ketone 9 was then transformed to oxime 10 using NH2OH.HCl, and then tosyl-oxime 11 (TsCl/pyridine).  A base-catalyzed Beckman rearrangement18 (K2CO3/THF) provided lactam 12, as a mixture of regioisomers (no attempt was made to separate these regioisomers), which was reduced to the corresponding amine (LiAlH4/THF) and protected with a Boc group (Boc2O/CH2Cl2) to yield ROMP monomer 13. 
+
+
+Scheme 1:  Synthesis of ROMP monomer 13.
+
+Although CTAs have been utilized in ROMP, no CTAs containing azide functionalities have been previously reported.  To test the use of an azide-functionalized CTA in ROMP, COD was polymerized in the presence of azide-terminated CTA 14 using metathesis catalyst 15 under standard ROMP conditions (eq 2).  Initially green, the reaction color became black after only a few minutes, likely indicating catalyst decomposition.  Additionally, the molecular weight of resulting polymer, 16, was much higher than the theoretical molecular weight (based on the ratio of [monomer]:[CTA]) and contained no CTA incorporation. Based on these observations, it is hypothesized that the azide functionalities caused catalyst decomposition.  Due to its large ring-strain energy, the COD monomer polymerized before complete catalyst decomposition; however the chain transfer process, which is much slower, did not take place. 
+However, telechelic polymer 19, containing azide end groups, was prepared from the corresponding dibromide telechelic polymer 18.  ROMP of monomer 13 in the presence of CTA 17 and metathesis catalyst 15 yielded polymer 18.  End-group modification of polymer 18 (NaN3/DMF) afforded the diazide-terminated polymer 19 (Scheme 2).
+
+
+Scheme 2:  Synthesis of azide terminated telechelic polymer 19 via ROMP of monomer 13.
+
+°C
+Cyclization of azide-terminated polymer 19 with 1,6-heptadiyne and CuBr was performed using a syringe pump to simulate ultrahigh dilution conditions.  After the click cyclization reaction was complete, alkyne- and azide- terminated scavenging resins were added to remove linear polymer (eq 3). 
+
+Confirmation of Cyclic Structure of Polymer 20.
+1H NMR spectroscopy was used to verify the chemical transformation of the end groups (Figure 4).  Resonance observed at 3.25 ppm, corresponding to the azide-adjacent protons (a), is clearly observed in the starting polymer 19.  After the cyclization and bead purification, resonances at 3.25 ppm disappear and new resonances at 4.12 ppm corresponding to the triazole-adjacent protons (a’) are observed.  Further evidence for the formation of triazole was observed in the FTIR spectra by monitoring the disappearance of azide (2090 cm-1) peak (Figure 5).  Additionally, MALLS-GPC (multi-angle laser light scattering-gel permeation chromatography) data indicates that no higher molecular weight condensation products, such as dimers or trimers, have formed.  As the GPC data  exclude the possibility of higher oligomer condensation, nearly quantitative formation of the triazole confirms conversion to the cyclic polymer. 
+Figure 5:  FTIR spectra of linear azide terminated polymer 19 and cyclic polymer 20 after click cyclization.
+
+
+
+Figure 4:  Partial 1H NMR spectra of linear polymer 19 and cyclic polymer 20.  Peak labels are defined in eq. 3. 
+
+	Additional end-group information was obtained using MALDI-MS (Figure 6).  While MALDI-MS cannot be used to confirm the molecular weight of the polymer samples, several repeat units were visible and it is possible to obtain the molecular weight of the end group of 20.  The end-group mass (286) may be determined by subtracting the mass of the monomer (225) and the mass of the MALDI-MS matrix (186) from the mass of the lowest visible repeat unit (700).  An end-group mass of 286 could correspond to either a cyclized product, or a monoreacted uncyclized product (Figure 6).  Due to the absence of appropriate 1H NMR spectroscopy signals and FTIR spectroscopy peaks, it can be concluded that the observed MS peaks correspond to the cyclic polymer 20.   
+°C
+°C
+Figure 7:  End-group analysis of cyclic polymer sample 20 using labeling experiments.
+Figure 6: MALDI-MS spectrum of ‘cyclic’ polymer 20 after click cyclization.	
+Although the experiments described above have shown the absence of any azide end group in the polymer sample, no evidence for the presence or absence of alkyne end groups in the polymer sample has been obtained.  Polymer 20 and 1H NMR spectroscopy labeling agent 21 were reacted under standard click polymer cyclization conditions (CuBr/bipyridine/DMF/120 °C), followed by the addition of alkyne-terminated resin to remove any excess labeling reagent (Figure 7).  The 1H NMR spectrum of cyclic polymer sample 20 after this labeling experiment showed no signals corresponding to labeling agent 21 (Figure 7).  A similar experiment using fluorine-containing labeling agent 22 was performed, and no signal corresponding to 22, was observed in the 19F NMR spectrum.  These experiments indicate that there are no alkyne end groups present in cyclic polymer 20.  The end group-analysis experiments indicate that there are neither azide (based on 1H NMR, FTIR, and MALDI-MS data) nor alkyne (MALDI-MS and labeling experiments) end groups present in polymer sample 20, supporting the cyclic structure of the polymer.
+Figure 8:  Linear polymer template 23 will thread [24]crown-8 (24), forming psuedorotaxane 25.  ‘Endless’ cyclic polymer template 26 cannot thread [24]crown-8 (24) due to its cyclic structure. 
+Perhaps the most informative experiment regarding the structure of polymer 20 exploits the molecular recognition between crown ether macrocycles and appropriately substituted ammonium ions.  This technique does not depend on end group identification, but, instead, relies on the most fundamental difference between linear and cyclic polymers—namely, the presence or absence of chain ends.  Linear polyammonium ion 23 will thread [24]crown-8 (24) nearly quantitatively in CD3CN after an equilibration period of 24 hours, as confirmed by 1H NMR spectroscopy.  After only a few minutes, resonances are observed in the 1H NMR spectrum at  ~ 3.2 ppm, corresponding to the NH2+-adjacent methylene protons (a') in an environment where they are encircled by a crown ether-like macrocycle.  Furthermore, resonances at  ~ 3.0 ppm corresponding to ‘free’ ammonium sites on the polymer chain (a) are observed to diminish in intensity.  If [24]crown-8 (24) is added to cyclic polyammonium ion 26, no change in chemical shift is observed in the region between  ~ 3.0–3.2 ppm, thus unambiguously confirming the ‘endless’ structure of cyclic sample 20 (Figure 8). 
+
+Synthesis of Cyclic Polycatenane using RCM.
+Recently, we have prepared an analog of cyclic polymer 20 where 1,4diethynylbenzene was used in the click cyclization (20a).  As a solid, 1,4-diethynylbenzene was easier to handle compared to 1,6-heptadiyne.  Using the previously described cyclization protocol, the click reaction gave a mixture of linear and cyclic polymers (Figure 9).
+Figure 9: GPC traces before (red) and after (blue) click cyclization to give cyclic polymer 20a.
+Hydrogenation of 20a using Wilkinson’s catalyst proceeded smoothly to give 27a.  Deprotection (TFA/CH2Cl2), followed by counterion exchange (NH4PF6/MeOH), yielded cyclic polyammonium ion 28a (Scheme 3).  
+Ring-closing of the terminal olefin functions in the acyclic polyether 4 in the presence of the cyclic polymer template 28 and metathesis catalyst 5 afforded greater than 95% conversion to the ring-closed polyether.  However, no change in chemical shift was observed in the characteristic region ( ~ 3.0-3.2 ppm) corresponding to the ammonium-adjacent methylene protons (a') in an environment where they are encircled by a crown ether-like macrocycle (Figure 10).  The polymer template 28 and crown ether 30 have very different solubilities, a property which can be exploited to purify the polymer sample.  Repeated precipitation of the reaction mixture (CH2Cl2/Et2O) did not, Scheme 3:  Synthesis of cyclic polymer template 28a.
+Figure 10:  Two possible products of the ring-closing metathesis of bis-olefin containing polyether 4 in the presence of cyclic polymer template are presented: (i) the interlocked product, [2]catenane 29 or (ii) a mixture of non-interlocked products crown 30 and cyclic polymer template 28.
+however, remove the majority of crown ether 30, as is evident in the 1H NMR spectrum.  Additional purification using size exclusion chromatography (SEC), also failed to remove remaining crown ether 30.  This led us to speculate that crown ether 30 might have an °C
+intimate association with the polymer template 28 to form catenation product 29.  MALDI-MS is a useful technique to probe this issue, however using a variety of matrices, the sample proved unsuitable for analysis.  
+23
+Figure 11:  Two possible product mixtures, polypseudorotaxane 31 or a mixture of 23 and 30 may result from the mixing of linear polymer template 23 and crown-like macrocycle 30. 
+To investigate this hypothesis further, threading experiments between the linear polymer template 23 and crown 30 were performed (Figure 11).  Interestingly, upon mixing linear polymer template 23 with the crown ether-like macrocycle 30 in CD3NO2, no change in chemical shift was observed in the characteristic region ( ~ 3.2 ppm), corresponding to the ammonium-adjacent methylene protons (a') encircled by a crown ether-like macrocycle.  Two possible explanations for these observations are (i) that crown ether-like macrocycle 30 is threading around polymer template 23 but not causing a detectable change in chemical shift, or (ii) that is there no threading between crown 30 and polymer template 23. 
+Two-dimensional diffusion-ordered NMR spectroscopy (2D-DOSY)18 has been used previously to examine rotaxanated polymers and other host-guest assemblies in which a change in chemical shift upon threading or assembly is not detectable.20  2D-DOSY can be used to correlate diffusion coefficients (D) with molecular structure via chemical shifts.  Self-diffusion depends on molecular size, with smaller molecules diffusing more quickly than larger molecules.  In the case of polyrotaxanes, the threading macrocycles are typically much smaller than the polymeric backbone they encircle, and, therefore, have much faster diffusion raters.  However, when the macrocycle is threaded onto the polymeric backbone, the macrocycle self-diffusion is controlled by the polymer self-diffusion. 
+Figure 12:  2D-DOSY spectrum of polypseudorotaxane 25 formed from mixing [24]crown-8 (24) and polymer template 23.  A diffusion coefficient (logD) of –9.1 m2s-1 corresponding to unthreaded crown (c) is evident along with a diffusion coefficient of –9.9 m2s-1 corresponding to threaded crown (c’). Both polymer template 23 and polypseudorotaxane 25 have the same self-diffusion coefficient and are labeled (p).
+
+We first validated the 2D-DOSY method by examining the threading behavior of linear polymer template 23 and [24]crown-8 (24).  There is an observable change in chemical shift in the 1H NMR spectrum from  ~ 3.0 to 3.2 ppm corresponding to the ammonium-adjacent methylene protons (a') encircled by a crown ether-like macrocycle (Figure 12).  Indeed, a distinct change in the self-diffusion coefficient of [24]crown-8 (24) is evident in the DOSY spectrum and is similar to the self-diffusion coefficient observed in the polymer sample.  A diffusion coefficient (logD) –9.1 m2s-1 (c) corresponding to ‘free’ [24]crown-8 (24) is evident in the 2D-DOSY spectrum along with a diffusion coefficient of (logD) –9.9 m2s-1 (c’) corresponding to ‘threaded’ [24]crown-8 (24).  The threaded crown (c’) has a very similar self-diffusion coefficient (p) to that of the polymer template 23, indicating that the diffusion of the threaded crown is governed by that of the polymer template.
+Next, the threading behavior of linear polymer template 23 and crown-like macrocycle 30 was examined (Figure 13).  In this sample, no observable change in chemical shift of the ammonium-adjacent methylene protons (a') encircled by a crown ether-like macrocycle was observed in the 1H NMR spectrum ( ~ 3.0 ppm) upon Figure 13:  2D-DOSY spectrum of polypseudorotaxane 31 formed from mixing crown-like macrocycle 30 and polymer template 23.  The diffusion coefficient at –9.2 m2s-1 corresponding to unthreaded crown (c) is evident along with diffusion coefficients of –9.5 to –10.0 m2s-1 corresponding to threaded crown (c’).  Both polymer template 23 and polypseudorotaxane 31 have the same self-diffusion coefficients and are labeled (p).
+addition of 30, thus it was unclear if any polymer threading was occurring.  While the spectrum is more complex due to the lower symmetry of crown-like macrocycle 30, a distinct change in the self-diffusion is evident in the 2D-DOSY spectrum and is similar to the self-diffusion coefficient observed for polymer template 23.  A diffusion coefficient of (logD) –9.1 to –9.5 m2s-1 (c) corresponding to ‘free’ crown-like macrocycle 30 is evident in the 2D-DOSY spectrum, along with diffusion coefficients of (log D) –9.6 to    –10.0 m2s-1 (c’) corresponding to ‘threaded’ crown-like macrocycle 30.  The threaded crown (c’) has a very similar self-diffusion coefficient (p) to that of polymer template 23 indicating that the diffusion coefficient of the threaded crown is governed by that of the polymer template.
+	Encouraged by the successful application of 2D-DOSY to the threaded system, we attempted to use this technique to investigate the reaction mixture resulting from RCM of 4, catalyzed by 5, in the presence of cyclic polymer template 28.  Possible outcomes included formation of cyclic polycatenane 29 or a mixture of non-interlocked crown 30 and polymer 28.  Unfortunately 2D-DOSY experiments did not yield conclusive results (Figure 14).  A diffusion coefficient of (logD) –8.6 m2s-1 (c) corresponding to a crown-like macrocycle was evident in the 2D-DOSY spectrum along with diffusion coefficients of (logD) –8.6 m2s-1 corresponding to a polyammonium ion.  The exact structure, however, could not be determined due to the unusually rapid diffusion exhibited by the polyammonium ion.  The diffusion coefficient of the cyclic polyammonium ion in this spectra was much larger (logD = –8.6 m2s-1) than for linear polyammonium ions 23 or 31 (logD = –10.0 m2s-1).  This result was unexpected, and made precise identification of the polymeric structure using 2D-DOSY impossible.
+Figure 14:  2D-DOSY spectrum of the reaction mixture resulting from the ring-closing metathesis of the acyclic polyether 4 in the presence of the cyclic polymer template 28 using metathesis catalyst 5.  Possible outcomes include formation of cyclic polycatenane 29 or a mixture of crown 30 and polymer 28.  The diffusion coefficient at –8.6 m2s-1 corresponding to crown (c) is evident along with diffusion coefficients of –8.6 m2s-1 corresponding polymer, which are labeled (p).
+
+Attempted purification of cyclic polymer 28a using [24]crown-8.
+	As shown in Figure 8, [24]crown-8 will thread a linear polyammonium template but not a cyclic polyammonium template.  Since CH2Cl2 is a good solvent only for threaded linear polymer 25,  this difference in solubility may be exploited to separate the two species.
+Figure 15: Purification of cyclic polymer 28a using [24]crown-8.
+	We have recently tried to remove the linear impurities in cyclic polymer 28a using this protocol (Figure 15).  Treatment of 28a with an equimolar amount of [24]crown-8 resulted in threading after 24 h.  After washing the reaction mixture with CH2Cl2, most of the threaded linear polymer 25 was removed.  However, trace amounts of [24]crown-8 and 25 remained, even after repeated washing with CH2Cl2.
+
+Future Directions.
+	Purification of cyclic polymer 28a remains a challenging task.  Since we have had some success using [24]crown-8 to remove linear polymer contaminants, it is possible that the same strategy can be used after the clipping reaction shown in Figure 10.  Washing with CH2Cl2 should remove most of the threaded linear polymer impurities, leaving behind pure charm bracelet 29.  
+	The clipping reaction shown in Figure 9 should be further explored to improve cyclization efficiency.  So far, only catalyst 5 was used in this reaction.  Catalyst 15 is more active and more functional group tolerant, which may show improved reactivity in the clipping reaction.  The effects of solvent should also be investigated.  Metathesis-compatible solvents such as acetone and dimethoxyethane may be a better solvent for cyclic polymer 28.  If the polymer exists in a relaxed conformation in solution, this may result in enhanced interactions between bis-olefin containing polyether 4 and the polymer template and increased clipping efficiency.  Once the clipping efficiency is improved, the DOSY experiments should give a more definitive proof for the formation of a cyclic polycatenane.
+
+References.
+(1)	(a) Dietrich-Buchecker, C. O.; Sauvage, J.-P.; Kern, J. M. J. Am. Chem. Soc. 1984, 106, 3043–3045. (b) Hunter, C. A. J. Am. Chem. Soc. 1992, 114, 5303–5311. (c) Vögtle, F.; Jager, R.; Handel, M.; Ottens-Hildebrandt, S. Pure Appl. Chem. 1996, 68, 225–232. (d) Gong, C. G.; Gibson, H. W. Angew. Chem., Int. Ed. 1998, 37, 310–314. (e) Kolchinski, A. G.; Busch, D. H.; Alcock, N. W. J. Chem. Soc., Chem. Commun. 1995, 1289–1291. (f) Hansen, J. G.; Feeder, N.; Hamilton, D. G.; Gunter, M. J.; Becher, J.; Sanders, J. K. M. Org. Lett. 2000, 2, 449–452. (g) Shukla, R.; Deetz, M. J.; Smith, B. D. Chem. Commun. 2000, 2397–2398. (h) Hubbard, A. L.; Davidson, G .J. E.; Patel, R. H.; Wisner, J. A.; Loeb, S. J. Chem. Commun. 2004, 2, 138–139.  (i) Sasabe, H.; Kihara, N.; Furusho, Y.; Mizuno, K.; Ogawa, A.; Takata, T. Org. Lett. 2004, 6, 3957–3960. (j) Hernandez, J. V.; Kay, E. R.; Leigh, D. A. Science 2004, 306, 1532–1537.
+(2)	(a) Rowan, S. J.; Brady, P. A.; Sanders, J. K. M. Angew. Chem., Int. Ed. Engl. 1996, 35, 2143–2145. (b) Lehn, J.-M. Chem. Eur. J. 1999, 5, 2455–2463. (c) Lehn, J.-M.; Eliseev, A. V. Science 2001, 291, 2331–2332. (d) Otto, S.; Furlan, R. L. E.; Sanders, J. K. M. Science 2002, 297, 590–593. (e) Rowan, S. J.; Cantrill, S. J.; Cousins, G. R. L.; Sanders, J. K. M.; Stoddart, J. F. Angew. Chem., Int. Ed. 2002, 41, 898–952. (f) Corbett, P. T.; Otto, S.; Sanders, J. K. M. Org. Lett. 2004, 6, 1852–1827.
+(3)	(a) Cantrill, S. J.; Rowan, S. J.; Stoddart, J. F. Org. Lett. 1999, 1, 1363–1366. (b) Rowan, S. J.; Stoddart, J. F. Org. Lett. 1999, 1, 1913–1916. (c) Glink, P. T.; Oliva, A. I.; Stoddart, J. F.; White, A. J. P.; Williams, D. J. Angew. Chem., Int. Ed. 2001, 40, 1870–1875. (d) Horn, M.; Ihringer, J.; Glink, P. T.; Stoddart, J. F. Chem. Eur. J. 2003, 9, 4046–4054. (e) Chichak, K. S.; Cantill, S. J.; Pease, A. R.; Chiu, S.-H.; Cave, G. W. V.; Atwood, J. L.; Stoddart, J. F. Science 2004, 304, 1308–1312. (f) Hogg, L.; Leigh, D. A.; Lusby, P .J.; Morelli, A.; Parsons, S.; Wong, J. K. Y. Angew. Chem., Int. Ed. 2004, 43, 1218–1221. (g) Schalley, C. A. Angew. Chem., Int. Ed. 2004, 43, 4399–4401. (h) Cantrill, S. J.; Chichak, K. S.; Peters, A. J.; Stoddart, J. F. Acc. Chem. Res. 2005, 38, 1–9.
+(4)	(a) Kolchinski, A. G.; Alcock, N. W.; Roesner, R. A.; Busch, D. H. Chem. Commun. 1998, 1437–1438. (b) Furusho, Y.; Oku, T.; Hasegawa, T.; Tsuboi, A.; Kihara, N.; Takata, T. Chem. Eur. J. 2003, 9, 2895–2903.
+(5)	Fuchs, B.; Nelson, A.; Star, A.; Stoddart, J. F.; Vidal, S. B. Angew. Chem., Int. Ed. 2003, 42, 4220–4224.
+(6)	Trnka, T. M; Grubbs, R. H. Acc. Chem. Res. 2001, 34, 18–29.
+(7)	(a) Kidd, T. J.; Leigh, D. A.; Wilson, A. J. J. Am. Chem. Soc. 1999, 121, 1599–1600. (b) Weck, M.; Mohr, B.; Sauvage, J.-P. Grubbs, R. H. J. Org. Chem. 1999, 64, 5463–5471. (c) Arico, F.; Mobian, P.; Kern, J. M.; Sauvage, J.-P. Org. Lett. 2003, 5, 1887–1890. (d) Iwamoto, H.; Itoh, K.; Nagamiya, H.; Fukazawa, Y. Tetrahedron Lett. 2003, 44, 5773–5776. (e) Wang, L. Y.; Vysotsky, M. O.; Bogdan, A.; Bolte, M. Böhmer, V. Science 2004, 304, 1312–1314.  (f) Guidry, E. N.; Cantrill, S. J.; Stoddart, J. F.; Grubbs, R. H. Org. Lett. 2005, 7, 2129–2132.
+(8)	(a) Wisner, J. A.; Beer, P. D.; Drew, M. G. B.; Sambrook, M. R. J. Am. Chem. Soc. 2002, 124, 12469–12476. (b) Hannam, J. S.; Kidd, T. J.; Leigh, D. A.; Wilson, A. J. Org. Lett. 2003, 5, 1907–1910, (c) Coumans, R. G. E.; Elemans, J. A. A. W.; Thordarson, P.; Nolte, R. J. M.; Rowan, A. E. Angew. Chem., Int. Ed. 2003, 42, 650–654. (d) Kilbinger, A. F. M.; Cantrill, S. J.;  Waltman, A. W.; Day, M. W.; Grubbs, R. H. Angew. Chem., Int. Ed. 2003, 42, 3281–3285.
+(9)	Badjic, J. D.; Cantrill, S. J.; Grubbs, R. H.; Guidry, E. N.; Orenes, R.; Stoddart, J. F. Angew. Chem., Int. Ed. 2004, 43, 3273–3278.
+(10)	Guidry, E. N.; Li, J.; Stoddart, J. F.; Grubbs, R. H. J. Am. Chem. Soc. 2007, 129, 8944-8945.
+(11) (a) Glink, P. T.; Schiavo, C.; Stoddart, J. F.; Williams, D. J. Chem. Commun. 1996, 1483–1490. (b) Cantrill, S. J.; Pease, A. R.; Stoddart, J. F. J. Chem. Soc., Dalton Trans. 2000, 3715–3734. (c) Clifford, T.; Abushamleh, A.; Busch, D. H. Proc. Natl. Acad. Sci. USA 2002, 99, 4830–4836.
+(12) Scholl, M.; Ding, S.; Lee, C. W.; Grubbs, R. H. Org. Lett. 1999, 1, 953–956.
+(13) Huisgen, R. In 1,3-Dipolar Cycloaddition Chemistry; Padwa, A., Ed.; Wiley: New York, 1984.
+(14) Laurent, B. A.; Grayson, S. M. J. Am. Chem. Soc. 2006, 128, 4238-4239.
+(15) (a) Maughon, B. R.; Morita, T.; Bielawski, C. W.; Grubbs, R. H. Macromolecules 2000, 33, 1929-1935.  (b) Morita, T.; Maughon, B. R.; Bielawski, C. W.; Grubbs, R. H. Macromolecules 2000, 33, 6621-6623.  (c) Bielawski, C. W.; Benitez, D.; Morita, T.; Grubbs, R. H. Macromolecules 2001, 24, 8610-8618.  
+(16) Hejl, A.; Scherman, O. A.; Grubbs, R. H. Macromolecules 2005, 38, 7214-7218.
+(17) Omura, K.; Swern, D. Tetrahedron 1978, 34, 1651.
+(18) Gawley, R. E. Org. React., 1988, 35, 1.  
+(19) (a) Morris, K. F.; Johnson Jr., C. S. J. Am. Chem. Soc. 1993, 115, 4291.  (b) Schulze, D.; Stilbs, P. J. Magn. Reson. A  1993, 105, 54.  (c) Persson, K.; Griffiths, P. C.; Stilbs, P. Polymer 1996, 37, 253.  (d) Jerschow, A.; Muller, N. Macromolecules 1998, 31, 6573.  (e) Hakansson, B.; Nyden, M.; Soderman, O. Collid Polym. Sci. 2000, 278, 399.
+(20) Zhao, T.; Beckham, H. W.; Gibson, H. W. Macromolecules 2003, 36, 4833-4837.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"
+16,/mnt/f/MURI 08/muri oct 08/stoddart_MURI-1.doc,"
+Fraser Stoddart MURI Report – University of California, Los Angeles
+Synthesis and Operation of an Acid-Base Controllable [c2]Daisy Chain
+Artificial molecular-based muscles, which can convert chemical, electrochemical, or photochemical energy into mechanical motion, have attracted attention as a result of their potential for spawning nanoelectromechanical systems (NEMS).[1] Several materials, such as conducting polymers,[2] single-walled carbon nanotubes,[3] and dielectric elastomers,[4] have been developed which exhibit muscle-like behavior at the nanoscale level. However, all these systems rely upon the response of a bulk substance, rather than on the behavior of individual molecules. Recently, artificial muscles have been designed on a molecular scale by taking advantage of conformational changes exerted by electrochemical stimuli.[5-8] For example, oligothiophene-calix[4]arene copolymers[5] and thiophene-fused annulenes[6] exhibit molecular actuating behavior under redox control while crown ether-annelated oligothiophenes[7] and polyheterocyclic strands[8] show ion-triggered muscle-like properties. Nanoscale molecular motions, based on artificial molecular machines,[9] offer alternative opportunities to design artificial muscle-like materials. 
+Bistable rotaxanes hold promise because relative linear mechanical translocation of the ring and dumbbell components can be achieved upon activation by chemical, [10] electrical field, [11] or light irradiation [12] stimuli. Converting such internal molecular motions into practical actuating materials requires relocating these internal motions into components, which, when taken together, exhibit expansion and contraction in a linear direction. Sauvage et al. [13] have reported a linear molecular muscle, based on a transition metal templated, doubly-threaded rotaxane, which can undergo the required expansion/contraction motion on the addition/removal of metal ions. On the other hand, we have reported[14] a switchable, palindromically-constituted, doubly-bistable [3]rotaxane which can be self-assembled onto gold-coated microcantilevers with disulfide-terminated tethers emanating from its two rings in such a manner that they can be moved towards and away from each other under redox control. Controllable and reversible deflection of the microcantilevers can be achieved when the integrated system is exposed to the synchronous addition of oxidants and reductants (or subjected to oxidizing or reducing electrochemical potentials). 
+Acid-base controllable, bistable, rotaxane-based molecular shuttles have been reported[10b,c] previously in which a dibenzo[24]crown-8 (DB24C8) ring switches under acid-base control between two different recognition sites on a dumbbell component, where one of the sites is a secondary dialkylammonium (R2NH2+) center and the other one, an N,N´-dialkylated-4,4´-bipyridinium (Bpym2+) unit. Although this switching has subsequently been employed[10d,e] in the design of more complex machines such as nanoscale elevators, the mechanical motions are still only relative internal movements, i.e., there is no contraction/expansion in their overall molecular dimensions. Herein, a [c2]daisy chain topology[15] was identified (Scheme 1) wherein two mechanically interlocked filaments glide along one another through the terminal crown ether rings and in which the end of each filament is attached to bulky stoppers to prevent dethreading of the rings. In this Janus type molecule, the two DB24C8 rings move between the two different recognition sites — R2NH2+ and Bpym2+ — under acid-base control, conferring upon the molecule contraction/expansion, reminiscent of the action of a muscle. 
+The template-directed synthesis[15b,c] of this kind of [c2]daisy chain relies on the self-assembly of two benzylammonium-terminated DB24C8 rings to give a thermodynamically stable, dimeric pseudorotaxane[16] in solvents such as MeCN. The incorporation of the second recognition site (Bpym2+) equipped with a bulky stopper affords a kinetically stable, [c2]daisy chain. Employing this synthetic strategy, both 1a•6PF6 and 1b•6PF6 have been prepared (Scheme 2) in which the latter compound (1b•6PF6) contains tetradeuterated catechol rings. 
+
+Scheme 1. Schematic representation and the anticipated mechanical motions within an acid-base controlled molecular muscle system based on a [c2]daisy chain.
+The intermediate compounds 4a•PF6 and 4b•PF6 with benzylic bromide functions self-assemble (Scheme 2) into the dimeric superstructures (4a)2•2PF6 and (4b)2•2PF6, respectively. Prior to this self-assembly step, the synthesis involves the condensation of the formyl-substituted DB24C8 derivatives 2a and 2b[15b] with methyl 4-(aminomethyl)benzoate to give the corresponding imines. Simultaneous reduction (LiAlH4) of the imine bonds and the ester functions gave compounds 3a and 3b, respectively, with overall yields in excess of 88%. The hydroxylmethyl groups in 3a and 3b were then converted into bromomethyl functions by reaction with PBr3 in CH2Cl2, followed by protonation of the amino groups with HBr and counterion exchange with NH4PF6 to afford the compounds 4a•PF6 and 4b•PF6 in overall yields exceeding 80%. The 1H-NMR spectra of 4a•PF6 and 4b•PF6 revealed that the molecules exist as monomers in polar solvents such as Me2SO. In less polar solvents, such as CHCl3 and MeCN, dimeric species (4a)2•2PF6 and (4b)2•2PF6 and higher oligomers constitute the major components. The solvent-dependent aggregation was further confirmed by electrospray ionization mass spectrometry (ESI-MS) measurements of 4a•PF6 in protic and aprotic solvents. A single positively charged peak at m/z = 660.22 ([M–PF6]+) was revealed when a protic solvent, e.g., MeOH, was used as the solvent for electrospray ionization; on the contrary, a doubly positive charged peak at m/z = 660.40 ([M2–2PF6]2+) was observed when using a less polar and aprotic solvent such as MeCN, indicating the formation of dimeric species.[15b,16] Finally, (4a)2•2PF6 and (4b)2•2PF6 were treated with 5[10b] in MeCN/CHCl3 (1:1 v/v) at 60 ˚C for 10 days, after which the products were purified by column chromatography (SiO2) using MeOH / 2M aqueous NH4Cl / MeNO2 (7:2:1, v/v/v) as the eluent before being subjected to counterion exchange with NH4PF6, yielding 1a•6PF6 and 1b•6PF6 in 15-40% yields. The low yields can be attributed to the existence of higher oligomers based on the monomers 4a•PF6 and 4b•PF6, as well as to the propensity of the dimeric superstructures to disassemble during the stoppering reaction at elevated temperatures. High resolution ESI mass spectra of 1a•6PF6 and 1b•6PF6 revealed major peaks at m/z = 1230.996 and 1234.986, respectively, which can be assigned to doubly-threaded species after the loss of two PF6– counterions.  1H-NMR and COSY-NMR spectroscopies were also used to characterize these doubly-interlocked structures. Although compound 1a•6PF6 shows well-resolved peaks in its 1H-NMR spectrum in CD3CN, the resonances originating from the aromatic protons of both the simple and substituted rings overlap. This overlap can be overcome by recording the 1H-NMR spectrum of the deuterated analog 1b•6PF6.
+
+Scheme 2. The template-directed syntheses of the molecular muscles 1a•6PF6 and 1b•6PF6.
+The 1H-NMR spectrum of 1b•6PF6 in CD3CN revealed well-resolved peaks, all of which could be assigned (Figure 1a) with the help of COSY-NMR measurements. The spectrum demonstrates that the DB24C8 rings exhibit an overwhelming selectivity for the encirclement of the R2NH2+ recognition sites. The peaks responsible for the –OCH2CH2O– repeating unit appear in the region from 3.2–4.5 ppm and are not individually resolved on account of the DB24C8 rings′ association with the –NH2+– centers. The resonance for the NH2+ protons was observed at δ = 7.21 ppm. The protons on the unbound Bypm2+ units appear as clearly resolved peaks at low field, resonating in the region, δ = 8.3–9.0 ppm. As a result of the diamagnetic ring currents of the DB24C8 and the π-π interaction the catechol rings, the signals (box in Figure 1) for Ha, Hb and Hc are shifted to higher field. In addition, two sets of signals (red for the major isomer and pink for the minor isomer) for the undeuterated catechol rings were indentified in the region from δ = 6.1–7.0 ppm, indicating that there are two diastereoisomers present in the solution. This phenomenon was also observed in a previously reported[15b] self-assembling [c2]daisy chain involving DB24C8 rings and –NH2+– center. On account of the unsymmetrical substitution of the DB24C8 ring, dimerization gives two C2 symmetrical (chiral) enantiomers and a Ci symmetrical (meso) diastereoisomer (See SI). The two sets of signals for the catechol ring protons in the 1H-NMR spectrum of 1b•6PF6 can be assigned to the racemic modification and the meso isomer.
+
+Figure 1. 1H-NMR spectra of compound 1b•6PF6 in CD3CN: (a) the original spectrum; (b) after addition of 2.1 equiv P1-t-Bu base; and (c) further addition of 2.1 equiv CF3CO2H.
+In order to initiate muscle-like behavior at the molecular level, 2.1 equivalents of phosphazene base P1-t-Bu[17] were added to a solution of 1b•6PF6 in CD3CN. The 1H-NMR spectrum of the resulting mixture revealed that the DB24C8 rings had migrated to the Bypm2+ recognition sites (Figure 1b) on deprotonation of the –NH2+– centers. This interpretation was supported by the fact that (1) the peaks for the Bypm2+ protons are shifted to lower field on association with the DB24C8 rings, (2) the peaks for the protons (Hf and Hg) on the phenylene spacers are shifted to higher field because of the mutually π overlapping nature of the paraphenylene ring systems in the contracted geometry, (3) the separate peaks for Ha, Hb and Hc in the diastereoisomers are less anisochronous and give only one set of accidentally equivalent signals because of the lack of π-π interactions of the catechol ring, and (4) the signal for proton Hh is shifted to higher field when the DB24C8 rings migrate to the Bypm2+ sites. Reprotonation of the –NH2+– centers following the addition of 2.1 equivalents of CF3CO2H resulted in the return of the DB24C8 rings to the –NH2+– centers as evidenced by the regeneration of the original 1H-NMR spectrum (Figure 1c). Thus, 1H-NMR spectroscopic measurements demonstrate that molecules 1a6+ and 1b6+ show reversible muscle-like contraction and expansion under acid-base control. AMBER molecular modeling also suggested that after deprotonation, the longitudinal molecular size became ~29% (0.9 nm) shorter than the original extended length (Scheme 1).
+Acid-base switching was also monitored by UV/Vis absorption spectroscopy in a 0.39 mM solution of 1a•6PF6 in MeCN (Figure 2). Upon addition of 2.1 equivalents of phosphazene base P1-t-Bu, the colorless solution turned yellow and a new maximum appeared around 400 nm in the spectrum. This band reflects[16] the CT interaction between the Bypm2+ and DB24C8 rings. Upon addition of 2.5 equivalents of CF3CO2H to the yellow solution the color was expelled and the original UV/Vis spectrum was reinstated.[18] 
+
+Figure 2. Change in UV-Vis absorption spectra of compound 1a•6PF6 in CD3CN (0.39 mM) before deprotonation (black), after deprotonation with 2.1 equiv of P1-t-Bu base (red) and after reprotonation with 2.5 equiv of CF3CO2H (green). Inset from left to right side shows the color change during this process.
+The versatile synthetic strategy we have employed to make this acid-base controllable [c2]daisy chain is readily amenable to modification with carefully chosen functional groups, leading to the production of functionalized muscle molecules, which could, for example, be incorporated into liquid crystalline[19] or polymeric[20] systems. The materials properties of these much larger supramolecular and molecular systems should then be responsive to changes in pH at the monomeric level within their superstructures and structures, respectively.
+References
+[1]  a) R. H. Baughman, Science 2005, 308, 63–65; b) A. Barreiro, R. Rurali, E. R. Hernández, J. Moser, T. Pichler, L. Forró, A. Bachtold, Science 2008, 320, 775–778; c) K. L. Ekinci, M. L. Roukes, Rev. Sci. Instrum. 2005, 76, 061101.
+[2]  a) T. F. Otero, J. M. Sansiñena, Adv. Mater. 1998, 10, 491–494; b) T. F. Otero, M. T. Cortés, Adv. Mater. 2003, 15, 279–282; c) L. Bay, K. West, P. Sommer-Larsen, S. Skaarup, M. Benslimane, Adv. Mater. 2003, 15, 310–313; d) S. Zhang, C. Huang, R. J. Klein, F. Xia, Q. M. Zhang, Z.-Y. Cheng J. Intell. Mater. Sys. Struct. 2007, 18, 133–145.
+[3]  a) R. H. Baughman, C.-X. Cui, A. A. Zakhidov, Z. Iqbal, J. N. Barisci, G. M. Spinks, G. G. Wallace, A. Mazzoldi, D. De Rossi, A. G. Rinzler, O. Jaschinski, S. Roth, M. Kertesz, Science 1999, 284, 1340–1344; b) G. M. Spinks, G. G. Wallace, L. S. Fifield, L. R. Dalton, A. Mazzoldi, D. De Rossi, I. I. Khayrullin, R. H. Baughman, Adv. Mater. 2002, 14, 1728–1734; c) V. Mottaghitalab, B. Xi, G. M. Spinks, G. G. Wallace Synth. Met. 2006, 156, 796–803; d) S. R. Shin, C. K. Lee, I. S. So, J. H. Jeon, T. M. Kang, C. W. Kee, S. I. Kim, G. M. Spinks, G. G. Wallace, S. J. Kim, Adv. Mater. 2008, 20, 466–470.
+[4]  a) Q.-M. Zhang, V. Bharti, X. Zhao Science 1998, 280, 2101–2104; b) R. Pelrine, R. Kornbluh, Q. Pei, J. Joseph, Science 2000, 287, 836–839; c) A. Buguin, M.-H. Li, P. Silberzan, B. Ladoux, P. Keller J. Am. Chem. Soc. 2006, 128, 1088–1089; d) K. Urayama, Macromolecules 2007, 40, 2277–2288; e) G. Chen, N. Kawazoe, Y. Fan, Y. Ito, T. Tateishi, Langmuir 2007, 23, 5864–5867; f) F. Carpi, G. Gallone, F. Galantini, D. De Rossi, Adv. Funct. Mater. 2008, 18, 235–241.
+[5]  a) H.-H. Yu, A. E. Pullen, B. Xu, T. M. Swager, Polym. Mater. Sci. Eng. 2000, 83, 523–524; b) P. A. Anquetil, H.-H. Yu, J. D. Madden, P. G. Madden, T. M. Swager, I. W. Hunter, Proc. SPIE Int. Soc. Opt. Eng. 2002, 4695, 424–434; c) P. A. Anquetil, H.-H. Yu, J. D. Madden, T. M. Swager, I. W. Hunter, Proc. SPIE Int. Soc. Opt. Eng. 2003, 5051, 42–53; d) C. Alemán, D. Zanuy, J. Casanovas J. Org. Chem. 2006, 71, 6952–6957; e) D. Zanuy, J. Casanovas, C. Alemán J. Phys. Chem. B 2006, 110, 9876–9881.
+[6]  a) M. J. Marsella, R. J. Reid, Macromolecules 1999, 32, 5982–5984; b) M. J. Marsella, R. J. Reid, S. Estassi, L.-S. Wang, J. Am. Chem. Soc. 2002, 124, 12507–12510.
+[7]  B. Jousselme, P. Blanchard, E. Levillain, J. Delaunay, M. Allain, P. Richomme, D. Rondeau, N. Gallego-Planas, J. Roncali, J. Am. Chem. Soc. 2003, 125, 1363–1370.
+[8]  a) M. Barboiu, J.-M. Lehn, Proc. Natl. Acad. Sci. U.S. A. 2002, 99, 5201–5206; b) A. Petitjean, R. G. Khoury, N. Kyritsakas, J.-M. Lehn, J. Am. Chem. Soc. 2004, 126, 6637–6647; c) M. Barboiu, L. Prodi, M. Montalti, N. Zaccheroni, N. Kyritsakas, J.-M. Lehn, Chem. Eur. J. 2004, 10, 2953–2959; d) A.-M. Stadler, N. Kyritsakas, R. Graff, J.-M. Lehn, Chem. Eur. J. 2006, 12, 4503–4522; e) N. Giuseppone, J.-L. Schmitt, L. Allouche, J.-M. Lehn, Angew. Chem., Int. Ed. 2008, 47, 2235–2239.
+[9]  a) V. Balzani, M. Gómetz-López, J. F. Stoddart, Acc. Chem. Res. 1998, 31, 405–414; b) V. Balzani, A. Credi, F. M. Raymo, J. F. Stoddart, Angew. Chem. 2000, 112, 3484–3530; Angew. Chem., Int. Ed. 2000, 39, 3348–3391; c) A. Harada, Acc. Chem. Res. 2001, 34, 456–464; d) V. Balzani, A. Credi, M. Venturi, Molecular Devices and Machines – A Journey into the Nano World, Wiley-VCH: Weinheim, 2003; e) I. Willner, B. Basnar, B. Willner, Adv. Funct. Mater. 2007, 17, 702–717; f) V. Balzani, A. Credi, M. Venturi, ChemPhysChem, 2008, 9, 202–220.
+[10]  a) A. S. Lane, D. A. Leigh, A. Murphy, J. Am. Chem. Soc. 1997, 119, 11092–11093; b) P. R. Ashton, R. Ballardini, V. Balzani, I. Baxter, A. Credi, M. C. T. Fyfe, M. T. Gandolfi, M. Gómez-López, M.-V. Martínez-Díaz, A. Piersanti, N. Spencer, J. F. Stoddart, M. Venturi, A. J. P. White, D. J. Williams, J. Am. Chem. Soc. 1998, 120, 11932–11942; c) A. M. Elizarov, H.-S. Chiu, J. F. Stoddart, J. Org. Chem. 2002, 67, 9175–9181; d) J. D. Badjić, V. Balzani, A. Credi, S. Silvi, J. F. Stoddart, Science 2004, 303, 1845–1849; e) J. D. Badjić, C. M. Ronconi, J. F. Stoddart, V. Balzani, S. Silvi, A. Credi, J. Am. Chem. Soc. 2006; 128, 1489–1499.
+[11]  a) J.-P. Collin, P. Gaviña, J.-P. Sauvage, New. J. Chem. 1997, 21, 525–528; b) L. Raehm, J.-M. Kern, J.-P. Sauvage, Chem. Eur. J. 1999, 5, 3310–3317; c) J.-P. Collin, J.-M. Kern, L. Raehm, J.-P. Sauvage, in Molecular Switches; B. L. Feringa, Ed.; Wiley-VCH: Weinheim, 2000, pp 249–280; d) V. Bermudez, N. Capron, T. Gase, F. G. Gatti, F. Kajzar, D. A. Leigh, F. Zerbetto, S. Zhang, Nature 2000, 406, 608–611; e) R. Ballardini, V. Balzani, W. Dehaen, A. E. Dell'Erba, F. M. Raymo, J. F. Stoddart, M. Venturi, Eur. J. Org. Chem. 2000, 591–602; f) A. Altieri, F. G. Gatti, E. R. Kay, D. A. Leigh, F. Paolucci, A. M. Z. Slawin, J. K. Y. Wong, J. Am. Chem. Soc. 2003, 125, 8644–8654; f) S. Nygaard, K. C.-F. Leung, I. Aprahamian, T. Ikeda, S. Saha, B. W. Laursen, S. Kim, S. W. Hansen, P. C. Stein, A. H. Flood, J. F. Stoddart, J. O. Jeppesen J. Am. Chem. Soc. 2007, 129, 960–970.
+[12]  a) R. Ballardini, V. Balzani, M. T. Gandolfi, L. Prodi, M. Venturi, D. Philp, H. G. Ricketts, J. F. Stoddart, Angew. Chem. 1993, 105, 1362–1364; Angew. Chem., Int. Ed. Engl. 1993, 32, 1301–1303; b) P. R. Ashton, R. Ballardini, V. Balzani, A. Credi, R. Dress, E. Ishow, O. Kocian, J. A. Preece, N. Spencer, J. F. Stoddart, M. Venturi, S. Wenger, Chem. Eur. J. 2000, 6, 3558–3574; c) A. M. Brouwer, C. Frochot, F. G. Gatti, D. A. Leigh, L. Mottier, F. Paolucci, S. Roffia, G. W. H. Wurpel, Science 2001, 291, 2124–2128; d) F. G. Gatti, S. Len, J. K. Y. Wong, G. Bottari, A. Altieri, M. A. F. Morales, S. J. Teat, C. Frochot, D. A. Leigh, A. M. Brouwer, F. Zerbetto, Proc. Natl. Acad. Sci. U.S.A. 2003, 100, 10–14; e) A. Altieri, G. Bottari, F. Dehez, D. A. Leigh, J. K. Y. Wong, F. Zerbetto, Angew. Chem. 2003, 115, 2398–2402; Angew. Chem., Int. Ed. 2003, 42, 2296–2300; f) S. Saha, J. F. Stoddart, Chem. Soc. Rev. 2007, 36, 77–92.
+[13]  a) M. C. Jiménez-Molero, C. Dietrich-Buchecker, J.-P. Sauvage, Angew. Chem. 2000, 112, 3422–3425; Angew. Chem., Int. Ed. 2000, 39, 3284–3287; b) M. C. Jiménez-Molero, C. Dietrich-Buchecker, J.-P. Sauvage, A. De Cian, Angew. Chem. 2000, 112, 1351–1354; Angew. Chem., Int. Ed. 2000, 39, 1295–1298; c) M. C. Jiménez-Molero, C. Dietrich-Buchecker, J.-P. Sauvage, Chem. Eur. J. 2002, 8, 1456–1466; d) C. Dietrich-Buchecker, M. C. Jiménez-Molero, V. Sartor, J.-P. Sauvage, Pure Appl. Chem. 2003, 75, 1383–1393; e) S. Bonnet, J-P. Collin, M. Koizumi, P. Mobian, J.-P. Sauvage, Adv. Mater. 2006, 18, 1239–1250.
+[14]  a) T. J. Huang, B. Brough, C.-M. Ho, Y. Liu, A. H. Flood, P. Bonvallet, H.-R. Tseng, M. Baller, S. Magonov, J. F. Stoddart, Appl. Phys. Lett. 2004, 85, 5391–5393; b) Y. Liu, A. H. Flood, P. A. Bonvallet, S. A. Vignon, B. H. Northrop, H.-R. Tseng, J. O. Jeppesen, T. J. Huang, B. Brough, M. Baller, S. Magonov, S. D. Solares, W. A. Goddard, C.-M. Ho, J. F. Stoddart, J. Am. Chem. Soc. 2005, 127, 9745–9759.
+[15]  a) P. R. Ashton, I. W. Baxter, S. J. Cantrill, M. C. T. Fyfe, P. T. Glink, J. F. Stoddart, A. J. P. White, D. J. Williams, Angew. Chem. 1998, 110, 1344–1347; Angew. Chem., Int. Ed. 1998, 37, 1294–1297; b) S. J. Cantrill, G. J. Yoon, J. F. Stoddart, D. J. Williams, J. Org. Chem. 2001, 66, 6857–6872; c) S.-H Chui, S. J. Rowan, S. J. Cantrill, J. F. Stoddart, A. J. P. White, D. J. Williams, ChemCommun, 2002, 2948–2949; d) E. N. Guidry, J. Li, J. F. Stoddart, R. H. Grubbs, J. Am. Chem. Soc. 2007, 129, 8944–8945.
+[16]  a) P. R. Ashton, I. W. Baxter, F. M. Raymo, J. F. Stoddart, A. J. P. White, D. J. Williams, R. Wolf, Angew. Chem. 1998, 110, 2016–2019; Angew. Chem., Int. Ed. 1998, 37, 1913–1916; b) N. Yamaguchi, D. S. Nagvekar, H. W. Gibson, Angew. Chem. 1998, 110, 2518–2520; Angew. Chem., Int. Ed. 1998, 37, 2361–2364.
+[17]  Full name: N-t-butyl-N´, N´, N´´, N´´, N´´´, N´´´-hexamethylphosphorimidic.
+[18]  It should be pointed out that after the deprotonation/reprotonation cycle, waste salts are produced in solution. Moreover, some PF6– counterions are partially replaced by CF3CO2–, therefore, there are slight shifts in the NMR spectra with respect to the original spectra. Similar phenomenon in the UV-Vis absorption spectra can be explained by the same reasons.
+[19]  a) I. Aprahamian, T. Yasuda, T. Ikeda, S. Saha, W.R. Dichtel, K. Isoda, T. Kato, J.F. Stoddart, Angew. Chem. Int. Ed. 2007, 119, 4759–4763; b) M. Bispo, D. Guillon, B. Donnio, H. Finkelmann, Macromolecules, 2008, 41, 3098–3108. 
+[20]  a) T. Mirfakhrai, J. D. W. Madden, R. H. Baughman, Materials Today, 2007, 10, 30–38; b) W. Zhang, W. R. Dichtel, A. Z. Stieg, D. Benítez, J. K. Gimzewski, J. R. Heath, J. F. Stoddart, Proc. Natl. Acad. Sci. USA 2008, 105, 6514–6519.
+
+
+"
+17,/mnt/f/MURI 08/muri oct 08/muri data.doc,"
+Tirrell
+
+Papers In Press: 0
+Books/Chapters: 0
+Books/Chapters In Press: 0
+Technical Reports: 0
+Invention Disclosures: 0
+Patents Awarded: 0
+Patents Pending: 0
+Presentations: 64
+Contributed Presentations: 0
+Degrees Granted: 4
+Honors: Elected to National Academy of Sciences and National Academy of Engineering, ACS Cope Scholar Award
+
+Graduate Students (Total): 5
+Women Graduate Students: 3
+Minority Graduate Students: 0
+Undergraduate Students (Total): 1
+Women Undergraduate Students: 1
+Minority Undergraduate Students: 0
+Post Doctoral Students (Total): 0
+Women Post Doctoral Students: 0
+Minority Post Doctoral Students: 0
+
+Perry
+ONR Statistics  Total for MURI
+
+Papers Published: 6
+Papers In Press: 0
+Books/Chapters: 1
+Books/Chapters In Press: 0
+Technical Reports: 0
+Invention Disclosures: 0
+Patents Awarded: 0
+Patents Pending: 0
+Presentations: 6
+Contributed Presentations: 0
+Degrees Granted: 0
+Honors: 2
+Graduate Students (Total): 3
+Women Graduate Students: 0
+Minority Graduate Students: 0
+Undergraduate Students (Total): 0
+Women Undergraduate Students: 0
+Minority Undergraduate Students: 0
+Post Doctoral Students (Total): 1
+Women Post Doctoral Students: 0
+Minority Post Doctoral Students: 0
+
+
+
+ ONR Statistics-Weck
+
+Papers Published:					11
+Papers in Press:					0
+Books/Chapters:					0
+Books/Chapters in Press:			1
+Technical Reports	:				0
+Invention Disclosures:				0
+Patents Awarded:					0
+Patents Pending:					3
+Presentations:					33
+Degrees Granted:					7
+Honors:					5
+Graduate Students (Total):			8
+Women Graduate Students:			3
+Minority Graduate Students:			0
+Undergraduate Students (Total):			0
+Women Undergraduate Students (Total):		0
+Minority Undergraduate Students (Total):	0
+
+Post Doctoral Students (Total):			0
+Women Post Doctoral Students (Total):		0
+Minority Post Doctoral Students (Total):		0
+
+
+
+"
