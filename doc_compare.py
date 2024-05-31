@@ -25,20 +25,23 @@ print('folders to compare:', top1, top2)
 df1 = pd.DataFrame(columns=['path', 'name', 'type', 'text'])
 df2 = pd.DataFrame(columns=['path', 'name', 'type', 'text'])
 
-filetype='txt'
+filetypes = ['.txt', '.docx']
 
-def read_files(top, filetype, df):
+def read_files(top, filetypes, df):
+    
     for path in top.rglob('*'):
-        spath = str(path)
-        if spath[-4:]=='.'+filetype:
-            nam =  spath[spath.rfind('/')+1:]
-            typ =  spath[spath.rfind('.')+1:]
-            with open(spath) as f:
-                try:
-                    txt = f.read()
-                    df.loc[len(df)] = [path, nam, typ, txt]
-                except:
-                    pass
+
+        if path.name[0]!='.':
+
+            if path.suffix in filetypes:
+
+                with open(str(path)) as f:
+                
+                    try:
+                        df.loc[len(df)] = [str(path), path.name, path.suffix, f.read()]
+                    except:
+                        pass
+    
     return df
 
 read_files(top1, 'txt', df1)

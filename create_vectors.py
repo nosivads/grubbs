@@ -1,20 +1,11 @@
 from sentence_transformers import SentenceTransformer
-from transformers import pipeline
 
 import pandas as pd
-import numpy as np
-'''
-from sklearn.metrics.pairwise import cosine_similarity
-from sklearn.metrics.pairwise import euclidean_distances
-'''
 import sys, os
 from pathlib import Path
 
-from spire.doc import *
-from spire.doc.common import *
-'''
-import datetime, json
-'''
+from docx import Document
+
 try:
     top=Path(sys.argv[1])
 except:
@@ -31,34 +22,51 @@ embeddings_df = pd.DataFrame(columns=['folder',
                            'text',
                            'length'])
 
-i = 0
+i = 1
 
 for path in top.rglob('*'):
 
     if path.name[0] != '.':
         
         if path.suffix == '.txt':
+
             text = path.read_text()
-        elif path.suffix == '.doc' or path.suffix == '.docx':
-            spath = str(path)
-            document = Document()
-            document.LoadFromFile(spath)
-            text = document.GetText().replace('Evaluation Warning: The document was created with Spire.Doc for Python.', '')
+            i += 1
+
+        elif path.suffix == '.docx':
+
+            try:
+
+                doc = Document(str(path))
+                text_list = []
+                for paragraph in doc.paragraphs:
+                    text_list.append(paragraph.text)
+                    '\n'.join(text_list)
+                text = '\n'.join(text_list)
+                i += 1
+
+            except:
+
+                continue
+
         else:
+
             continue
 
         print('processing...', path.parent, path.name)
-        i += 1
         embeddings_df.loc[len(embeddings_df)] = [path.parent,
                                                  path.name,
                                                  text,
                                                  len(text)]
+        
+        if i>100:
+            break
 
 print('creating embeddings...')
 embeddings_df['embedding'] = embeddings_df.text.apply(lambda x: bert_model.encode(x))
     
-print('writing CSV...')
-embeddings_df.to_csv(out)
+print('writing pickle file...')
+embeddings_df.to_pickle(out)
 
 print('number of files:', i)
 print('output:', out)
