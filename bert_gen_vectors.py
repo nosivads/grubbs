@@ -32,24 +32,27 @@ embeddings_df = pd.DataFrame(columns=['folder',
                            'length'])
 
 i = 0
+
 for path in top.rglob('*'):
 
-    if path.suffix == '.txt':
-        text = path.read_text()
-    elif path.suffix == '.doc' or path.suffix == '.docx':
-        spath = str(path)
-        document = Document()
-        document.LoadFromFile(spath)
-        text = document.GetText().replace('Evaluation Warning: The document was created with Spire.Doc for Python.', '')
-    else:
-        continue
+    if path.name[0] != '.':
+        
+        if path.suffix == '.txt':
+            text = path.read_text()
+        elif path.suffix == '.doc' or path.suffix == '.docx':
+            spath = str(path)
+            document = Document()
+            document.LoadFromFile(spath)
+            text = document.GetText().replace('Evaluation Warning: The document was created with Spire.Doc for Python.', '')
+        else:
+            continue
 
-    print('processing...', path.parent, path.name)
-    i += 1
-    embeddings_df.loc[len(embeddings_df)] = [path.parent,
-                                             path.name,
-                                             text,
-                                             len(text)]
+        print('processing...', path.parent, path.name)
+        i += 1
+        embeddings_df.loc[len(embeddings_df)] = [path.parent,
+                                                 path.name,
+                                                 text,
+                                                 len(text)]
 
 print('creating embeddings...')
 embeddings_df['embedding'] = embeddings_df.text.apply(lambda x: bert_model.encode(x))

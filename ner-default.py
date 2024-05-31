@@ -1,7 +1,15 @@
+# default model: https://huggingface.co/dbmdz/bert-large-cased-finetuned-conll03-english
+
 from transformers import pipeline
+from pathlib import Path
+
 import pandas as pd
 import sys, os
-from pathlib import Path
+'''
+from spire.doc import *
+from spire.doc.common import *
+'''
+from docx import Document
 
 try:
     top=Path(sys.argv[1])
@@ -18,11 +26,34 @@ df = pd.DataFrame(columns=['folder',
                            'start', 
                            'end'])
 
+i=1
+
 for path in top.rglob('*'):
-    if path.suffix == '.txt':
-        entities = ner(path.read_text())
-        print(str(path))
+
+    if path.name[0] != '.':
+
+        if path.suffix == '.txt':
+
+            text = path.read_text()
+
+        elif path.suffix=='.docx':
+
+            doc = Document(str(path))
+            text_list = []
+            for paragraph in doc.paragraphs:
+                text_list.append(paragraph.text)
+                '\n'.join(text_list)
+            text = '\n'.join(text_list)
+        
+        else:
+
+            continue
+            
+        print('processing #'+str(i), str(path))
+        entities = ner(text)
+
         for entity in entities:
+
             df.loc[len(df)] = [path.parent,
                                path.name,
                                entity['entity_group'],
@@ -30,5 +61,9 @@ for path in top.rglob('*'):
                                entity['word'],
                                entity['start'],
                                entity['end']]
+
+        i+=1
+        if i>50:
+            break
 
 df.to_csv('entities.csv')
