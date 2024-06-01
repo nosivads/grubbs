@@ -30,7 +30,7 @@ for path in top.rglob('*'):
         
         if path.suffix == '.txt':
 
-            text = path.read_text()
+            text = path.read_text()[:3000]
             i += 1
 
         elif path.suffix == '.docx':
@@ -42,7 +42,7 @@ for path in top.rglob('*'):
                 for paragraph in doc.paragraphs:
                     text_list.append(paragraph.text)
                     '\n'.join(text_list)
-                text = '\n'.join(text_list)
+                text = '\n'.join(text_list)[:3000]
                 i += 1
 
             except:
@@ -58,9 +58,6 @@ for path in top.rglob('*'):
                                                  path.name,
                                                  text,
                                                  len(text)]
-        
-        if i>100:
-            break
 
 print('creating embeddings...')
 embeddings_df['embedding'] = embeddings_df.text.apply(lambda x: bert_model.encode(x))

@@ -12,6 +12,9 @@ most_similar_df = pd.DataFrame(columns=['folder', 'filename',
                                         'cosine similarity', 'sim_folder', 'sim_filename', 
                                         'euclidean distance', 'dist_folder', 'dist_filename'])
 
+cos_highest = 0
+dis_lowest = 1000
+
 for i in range(len(physical_df)):
 
     #physical_df.loc[i, "folder"], physical_df.loc[i, "filename"], physical_df.loc[i, "embedding"]
@@ -29,6 +32,8 @@ for i in range(len(physical_df)):
             cos_sim = similarity
             sim_fold = digital_df.loc[j, "folder"]
             sim_file = digital_df.loc[j, "filename"]
+            if similarity > cos_highest:
+                cos_highest = similarity
 
         distance = euclidean_distances(np.array(physical_df.loc[i, "embedding"]).reshape(1, -1), 
                                        np.array(digital_df.loc[j, "embedding"]).reshape(1, -1))[0][0]
@@ -37,6 +42,8 @@ for i in range(len(physical_df)):
             euc_dis = distance
             dis_fold = digital_df.loc[j, "folder"]
             dis_file = digital_df.loc[j, "filename"]
+            if distance < dis_lowest:
+                dis_lowest = distance
 
         print(i, j)
     
@@ -51,6 +58,9 @@ for i in range(len(physical_df)):
     
 most_similar_df.to_csv('most_similar.csv')
 most_similar_df.to_pickle('most_similar.pickle')
+
+print('highest cosine similarity:', cos_highest)
+print('lowest euclidean distance:', dis_lowest)
      
 
 
